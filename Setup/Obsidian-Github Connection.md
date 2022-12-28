@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=h3oK1yX3CZ8&feature=emb_logo
 
 ## Helpful tips
 
-After creating a ReadMe file, make sure to Pull changes within Obsidian prior to making any Commits/Pushes as the disconnection
+After creating a ReadMe file within your repository, make sure to Pull changes within Obsidian prior to making any Commits/Pushes as the disconnection will affect any automatic Pushes you've enabled.
