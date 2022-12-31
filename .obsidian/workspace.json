@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup/Obsidian-Github Connection.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/Obsidian-Github Connection.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/Obsidian-Github Connection.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup/Obsidian-Github Connection.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "6d9af0d784905c29",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "1st Step - Setup/Obsidian-Github Connection.md"
+  ]
 }

@@ -1,0 +1,5 @@
+# Fuel Labs
+#research #defi 
+
+https://rainandcoffee.substack.com/p/the-fuel-for-fast-execution?token=eyJ1c2VyX2lkIjozNjI4OTcxNywicG9zdF9pZCI6NTU2MTYxNTUsIl8iOiJmeDFkMiIsImlhdCI6MTY1MzQxNDI0OCwiZXhwIjoxNjUzNDE3ODQ4LCJpc3MiOiJwdWItNjg4NjkyIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.Z_O-gbIl0-YdiY9RtZSIgMWGhupwyeVyBY5cNZPrRPI&s=r
+
