@@ -4,6 +4,9 @@
 This database covers my notes over the past year, primarily within readings, writings, and crypto research. 
 Feel free to duplicate and add your own content as well as use this as a framework for keeping up with the crypto industry.
 
+## Table of Contents
+
+
 ## Published Pages
 >This vault acts as a more informal brain dump of thoughts & summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/).
 
