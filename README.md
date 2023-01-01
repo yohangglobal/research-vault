@@ -5,10 +5,10 @@ This database covers my notes over the past year, primarily within crypto resear
 Feel free to fork, add your own content, and use this as a framework for keeping up with the crypto industry.
 
 ## Table of Contents
-0. [Setup](https://github.com/yohangglobal/research-vault/tree/main/-setup): creating your own Obsidian<>Github connection.
-1. [Crypto](https://github.com/yohangglobal/research-vault/tree/main/Crypto): covering Guides, DAOs, DeFi, Ecosystems, and Tools to get a user with any level of experience up to speed.
-2. [Writings](https://github.com/yohangglobal/research-vault/tree/main/Writings): collecting notes from previous Articles & Threads with Events & Podcasts I've listened to and summarized.
-3. [Programming](https://github.com/yohangglobal/research-vault/tree/main/Programming): reviewing courses in Computer Science/SQL & Python projects that people can try out.
+0. [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setup): creating your own Obsidian<>Github connection.
+1. [Crypto](https://github.com/yohangglobal/research-vault/tree/main/1.%20Crypto): covering Guides, DAOs, DeFi, Ecosystems, and Tools to get a user with any level of experience up to speed.
+2. [Writings](https://github.com/yohangglobal/research-vault/tree/main/2.%20Writings): collecting notes from previous Articles & Threads with Events & Podcasts I've listened to and summarized.
+3. [Programming](https://github.com/yohangglobal/research-vault/tree/main/3.%20Programming): reviewing courses in Computer Science/SQL & Python projects that people can try out.
 
 ## Published Pages
 >This vault acts as a more informal brain dump of thoughts & summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/research).
