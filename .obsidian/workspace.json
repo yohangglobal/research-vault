@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2b26f72ee1d5450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Attachments/Pasted image 20220822213141.png.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20de56b9ddf1086a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/DAOs/DAO Structures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd4d61af82426828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "62f15c7ea2753e6d",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/DAOs/DAO Structures.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/DAOs/DAO Structures.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/DAOs/DAO Structures.md"
+                "file": "README.md"
               }
             }
           }
@@ -183,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20de56b9ddf1086a",
+  "active": "62f15c7ea2753e6d",
   "lastOpenFiles": [
+    "1. Crypto/Users/Stun/Portfolio.md",
+    "1. Crypto/Users/Stun/Research Papers.md",
+    "1. Crypto/Users/Stun/Research Method.md",
+    "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
     "4. Attachments/Pasted image 20220822213141.png.md",
+    "1. Crypto/DAOs/Frameworks/DAO Structures.md",
     "3. Programming/Computer Science/Coding Roadmap.md",
     "3. Programming/Coding Tips/Staying Consistent.md",
     "1. Crypto/Ecosystems/Helium (HNT)/Mining HNT.md",
-    "README.md",
-    "1. Crypto/DAOs/Stun's DAO Resources.md",
-    "1. Crypto/DAOs/Daily Ape Resources.md",
-    "1. Crypto/DAOs/Protocol Treasury Structures.md",
-    "1. Crypto/DAOs/DAO Treasury Examples.md",
-    "1. Crypto/DAOs/Treasury Management in DeFi.md"
+    "README.md"
   ]
 }
