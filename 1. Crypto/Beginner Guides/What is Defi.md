@@ -1,0 +1,19 @@
+# Explaining Decentralized Finance
+#defi #guide 
+
+## Old Draft
+DeFi is a shortened version of Decentralised Finance and describes the emergence of a set of applications which are not centrally controlled and governed. For example the money in your bank account is controlled by your bank, they can control how much you withdraw/spend/send and what you do with your own money. For most purposes you do not own money in a bank you are just a creditor to the bank and we have seen many examples where people have lost access to their own money or been charged for falsified things they didnt do
+
+Like how to do it effectively Which are the best ones for passive income type shit How to manage them etc oh lol i still haven't perfected that yet. I've just been letting my fiat sit in aave for now I notice with farming don’t chase apy If it’s too good to be true then it probably is hose high apr/apy gonna get clapped in a few days
+
+### What is DeFi?
+
+**DeFi** is a shortened version of **Decentralised Finance** and describes the emergence of a set of applications which are not centrally controlled and governed. For example the money in your bank account is controlled by your bank, they can control how much you withdraw/spend/send and what you do with your own money. For most purposes you do not own money in a bank you are just a creditor to the bank and we have seen [many](https://www.theatlantic.com/business/archive/2013/03/everything-you-need-to-know-about-the-cyprus-bank-disaster/274096/) [examples](https://www.forbes.com/sites/jackkelly/2020/02/24/wells-fargo-forced-to-pay-3-billion-for-the-banks-fake-account-scandal/?sh=4c4888f242d2) where people have lost access to their own money or been charged for falsified things they didnt do.
+
+In the crypto and DeFi world, you own and maintain control of your money at all times with your wallet being the equivalent (and more) of a bank account. While you may elect to give control of certain portions of money to others this is at your discretion and you can revoke that at any time 24/7. Markets trade 24/7 and there is no holidays or downtime with every interaction ever in the entire system viewable and traceable on-chain. This is one reason the crypto revolution of the last decade continues to gain traction and interest from around the world.
+
+DeFi applications are specific functions that exist in the world of finance which operate as standalone 'contracts' (programs) on a blockchain. These applications do specific things and you interact with them by initiating a transaction from your wallet to the contract. These can be anything from borrowing and lending, trading, sending money or even non-monetary things like escrow services, art and legal attestations. For the most part DeFi relates to only the monetary contracts, many of which have turn overs of hundreds of millions of $ in equivalent currency.
+
+### How do I interact with DeFi?
+
+You'll first need a 'wallet' which like a bank account is a location you can store you money. However unlike a bank account where if something goes wrong you can call someone with your wallet you responsible for ensuring it is accessed securely and you safeguard the backup. Just like a physical wallet you have in your pocket, if you leave your physical wallet on a park bench it might be gone the next day, there is no way to get it back. The same is true for your digital wallet, this is why backing up the recovery words for your digital wallet is so important so in a worst case scenario you will be able to retrieve your money in your digital wallet by using the backup. There are many wallets available but we recommend [Phantom](https://phantom.app/) for DeFi on Step Finance
