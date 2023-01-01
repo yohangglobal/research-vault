@@ -13,31 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Programming/Computer Science/Coding Roadmap.md",
+                "file": "4. Attachments/Pasted image 20220822213141.png.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dc69c4ce4b07021",
+            "id": "20de56b9ddf1086a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Programming/Coding Tips/Staying Consistent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8241e1cc4e48091c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/Ecosystems/Helium (HNT)/Mining HNT.md",
+                "file": "1. Crypto/DAOs/DAO Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Beginner Guides/What is Defi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Beginner Guides/What is Defi.md",
+                "file": "1. Crypto/DAOs/DAO Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Beginner Guides/What is Defi.md",
+                "file": "1. Crypto/DAOs/DAO Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Beginner Guides/What is Defi.md"
+                "file": "1. Crypto/DAOs/DAO Structures.md"
               }
             }
           }
@@ -195,17 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f15c7ea2753e6d",
+  "active": "20de56b9ddf1086a",
   "lastOpenFiles": [
-    "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
-    "1. Crypto/Ecosystems/Helium (HNT)/Mining HNT.md",
-    "3. Programming/Coding Tips/Staying Consistent.md",
+    "4. Attachments/Pasted image 20220822213141.png.md",
     "3. Programming/Computer Science/Coding Roadmap.md",
-    "3. Programming/Rust/Solana Dev Resources.md",
-    "3. Programming/Rust/Solana - Chase B. Guide.md",
-    "3. Programming/Rust/Getting Started with Rust.md",
-    "3. Programming/Rust/Rust Resources.md",
-    "4. Attachments/Pasted image 20230101115535.png",
-    "3. Programming/Python/Cool projects.md"
+    "3. Programming/Coding Tips/Staying Consistent.md",
+    "1. Crypto/Ecosystems/Helium (HNT)/Mining HNT.md",
+    "README.md",
+    "1. Crypto/DAOs/Stun's DAO Resources.md",
+    "1. Crypto/DAOs/Daily Ape Resources.md",
+    "1. Crypto/DAOs/Protocol Treasury Structures.md",
+    "1. Crypto/DAOs/DAO Treasury Examples.md",
+    "1. Crypto/DAOs/Treasury Management in DeFi.md"
   ]
 }
