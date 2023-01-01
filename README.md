@@ -11,7 +11,7 @@ Feel free to fork, add your own content, and use this as a framework for keeping
 3. [Programming](https://github.com/yohangglobal/research-vault/tree/main/Programming): reviewing courses in Computer Science/SQL & Python projects that people can try out.
 
 ## Published Pages
->This vault acts as a more informal brain dump of thoughts & summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/).
+>This vault acts as a more informal brain dump of thoughts & summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/research).
 
 Feel free to keep up with our published findings in our [Research Database](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09).
 
