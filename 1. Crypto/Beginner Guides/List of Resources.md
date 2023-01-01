@@ -1,15 +1,4 @@
 # Crypto
-
-I love this website: [https://www.marketcapof.com/](https://www.marketcapof.com/)
-
-## Twitter Lists
-
-I've been highly overwhelmed by the constant inundation of crypto related content as of late, so I've reverted to putting most of the crypto people back on this list and deciding when I want to dive into the crazy. CT no doubt holds a lot of alpha if used correctly.
-
-CoinTheDay: [https://twitter.com/i/lists/1380980807456714754?s=20](https://twitter.com/i/lists/1380980807456714754?s=20)
-
-I focus on handful of coins at a time instead of trying to chase after 100s.
-
 -   [ETH (Ethereum)](https://etsplo.it/004%E2%9B%93Crypto/Coins/Layer+1/Ethereum/ETH+(Ethereum))
 -   [SOL (Solana)](https://etsplo.it/004%E2%9B%93Crypto/Coins/Layer+1/Solana/SOL+(Solana))
 -   [ONE (Harmony)](https://etsplo.it/004%E2%9B%93Crypto/Coins/Layer+2/ONE+(Harmony))

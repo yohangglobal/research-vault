@@ -1,5 +1,6 @@
 # How to connect Obsidian to Github
 
+## Resources
 Helpful repository w/ walkthrough:
 https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md
 
@@ -11,3 +12,8 @@ https://www.youtube.com/watch?v=h3oK1yX3CZ8&feature=emb_logo
 ## Helpful tips
 
 After creating a ReadMe file within your repository, make sure to Pull changes within Obsidian prior to making any Commits/Pushes as the disconnection will affect any automatic Pushes you've enabled.
+
+## Writing on Github
+
+Github Docs on Formatting/Syntax:
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3. Programming/Python/Cool projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3. Programming/Python/Cool projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3. Programming/Python/Cool projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3. Programming/Python/Cool projects.md"
               }
             }
           }
@@ -146,8 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "6d9af0d784905c29",
   "lastOpenFiles": [
-    "0. Setup/Obsidian-Github Connection.md"
+    "3. Programming/Data Analysis-SQL/Learning SQL.md",
+    "3. Programming/AI Learning/Resources.md",
+    "3. Programming/Python/Resources.md",
+    "3. Programming/Python/Python Tutorial (w3).md",
+    "3. Programming/Python/Cool projects.md",
+    "3. Programming/Computer Science/Basic Commands.md",
+    "3. Programming/Python/Defillama Python Client.md",
+    "3. Programming/Python/Pandas Tutorial.md",
+    "3. Programming/Python/Learn Python - Course.md",
+    "3. Programming/Python/Install & Setup.md"
   ]
 }

@@ -12,3 +12,6 @@ biggg file system knowledge
 
 https://www.onmsft.com/how-to/command-prompt-basics-starting-and-stopping-processes
 for starting programs do start blank file???
+
+## Programming Terms
+![[Pasted image 20230101115535.png]]
