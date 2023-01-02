@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "62f15c7ea2753e6d",
   "lastOpenFiles": [
+    "README.md",
     "1. Crypto/Users/Stun/Portfolio.md",
     "1. Crypto/Users/Stun/Research Papers.md",
     "1. Crypto/Users/Stun/Research Method.md",
@@ -156,7 +157,6 @@
     "1. Crypto/DAOs/Frameworks/DAO Structures.md",
     "3. Programming/Computer Science/Coding Roadmap.md",
     "3. Programming/Coding Tips/Staying Consistent.md",
-    "1. Crypto/Ecosystems/Helium (HNT)/Mining HNT.md",
-    "README.md"
+    "1. Crypto/Ecosystems/Helium (HNT)/Mining HNT.md"
   ]
 }
