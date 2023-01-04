@@ -16,3 +16,20 @@ _Crash course on crypto economics_ [https://twitter.com/realnatashache/status/14
 
 **must buy** [https://www.yubico.com/it/product/yubikey-5-nfc-pack-of-2/](https://www.yubico.com/it/product/yubikey-5-nfc-pack-of-2/ "https://www.yubico.com/it/product/yubikey-5-nfc-pack-of-2/")
 
+## How to Make it
+
+https://twitter.com/thedefiedge/status/1490765231248838661?s=20&t=0vGpdhI5v2mooLbHPPoNCg
+
+https://twitter.com/lindyape/status/1478237688352313345?s=21
+
+https://twitter.com/derivatives_ape/status/1446857763263586305?s=21
+
+https://twitter.com/avcrypto_/status/1467688791263506439?s=21
+
+https://twitter.com/screentimes/status/1473893689961422853?s=20
+
+https://twitter.com/marwolwarl/status/1472048122801000450
+
+https://twitter.com/degenspartan/status/1479144796161597441?s=21
+
+https://twitter.com/mrjasonchoi/status/1455888139927515137?s=21&t=wwOmhC6hFm7UhBGqzIDStQ

@@ -2,6 +2,9 @@ Reporting Cryptocurrency to the IRS in 2022:
 
 Source: [](https://time.com/nextadvisor/investing/cryptocurrency/cryptocurrency-tax-guide/)[https://time.com/nextadvisor/investing/cryptocurrency/cryptocurrency-tax-guide/](https://time.com/nextadvisor/investing/cryptocurrency/cryptocurrency-tax-guide/)
 
+Tax Guide:
+[https://reconcilemoney.notion.site/reconcilemoney/Crypto-Tax-Guide-109be891e7fc4c80bef2589097bb9189](https://reconcilemoney.notion.site/reconcilemoney/Crypto-Tax-Guide-109be891e7fc4c80bef2589097bb9189 "https://reconcilemoney.notion.site/reconcilemoney/Crypto-Tax-Guide-109be891e7fc4c80bef2589097bb9189")
+
 **Overview**
 
 1.  IRS Consideration

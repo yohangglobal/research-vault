@@ -16,4 +16,44 @@ DeFi applications are specific functions that exist in the world of finance whic
 
 ### How do I interact with DeFi?
 
-You'll first need a 'wallet' which like a bank account is a location you can store you money. However unlike a bank account where if something goes wrong you can call someone with your wallet you responsible for ensuring it is accessed securely and you safeguard the backup. Just like a physical wallet you have in your pocket, if you leave your physical wallet on a park bench it might be gone the next day, there is no way to get it back. The same is true for your digital wallet, this is why backing up the recovery words for your digital wallet is so important so in a worst case scenario you will be able to retrieve your money in your digital wallet by using the backup. There are many wallets available but we recommend [Phantom](https://phantom.app/) for DeFi on Step Finance
+You'll first need a 'wallet' which like a bank account is a location you can store you money. However unlike a bank account where if something goes wrong you can call someone with your wallet you responsible for ensuring it is accessed securely and you safeguard the backup. Just like a physical wallet you have in your pocket, if you leave your physical wallet on a park bench it might be gone the next day, there is no way to get it back. The same is true for your digital wallet, this is why backing up the recovery words for your digital wallet is so important so in a worst case scenario you will be able to retrieve your money in your digital wallet by using the backup. There are many wallets available but we recommend [Phantom](https://phantom.app/) for DeFi on Step Finance 
+
+## **Intro to DeFi**
+
+Cryptocurrencies and blockchain technology have revolutionized the opportunities people can attain with their money and ideas. One of the most prominent features of this are the financial benefits provided by the decentralized solutions that crypto has progressed. The fact that we now have a chance at gaining full control over our finances with no intermediaries, is an incredible blessing that has allowed for people of all backgrounds to conduct transactions, collaborate on projects, and exchange goods & services all through an equal system. This is achieved through DeFi or Decentralized Finance.
+
+DeFi is basically a system that utilizes protocols and smart contracts (programs stored on the blockchain that run when certain conditions are met) to bring traditional finance to the blockchain. These can then be used to create digital assets and decentralized applications, or dapps. What we are normally use to in our current financial system are banks and centralized authorities that end up controlling or middle-manning all financial transactions including borrowing/lending, acquiring interest, margin trading via brokerages, purchasing interest.
+
+Decentralized Finance makes these processes permissionless, transparent, secure, cheap, and fast. In its purest form, DeFi eliminates the need for banks, brokerages, and exchanges to make a system that is managed by all the users.
+
+**Why DeFi?**
+The DeFi space has been in a constant state of boom ever since its advent. To me, the question that remains -> is this worth leaving traditional finance for? Hell fucking yeah. Hopefully some of this information will help anyone get started in the space as well as create a new set of stakers and yield farmers that we can all learn from! Most of the processes that you'll see in DeFi are either peer to peer and transparent, while others are peer to protocol and still involve no centralized parties. This ends up providing the majority of value to users, while supporting the growth of each project.
+
+*Links:*
+https://twitter.com/thedefiedge/status/1489003195179413505?s=20&t=3MDBFR2XS635G4F1uh4Hkg
+https://medium.com/coinmonks/your-first-steps-into-defi-e90dd1aab5c8
+https://finematics.com/guide-to-decentralized-finance/
+https://letsdodefi.com/
+https://twitter.com/degen_inc/status/1432805144102686723?s=21
+https://medium.com/coinmonks/what-is-defi-2cee0dceeeab
+
+**Yield Farming**
+What is yield farming? Yield farming is a common strategy deployed across DeFi platforms and protocols and is a key component in all things crypto.
+
+With yield farming you can earn rewards by staking your tokens into liquidity pools to earn passive income on your deposited assets. This process allows for token holders to benefit from supporting their token's project as well as providing more efficient transactions for users' swaps.
+
+Not all farms are safe though. Do your own research but use this channel for any questions and we can help each other form sound strategies. See pinned messages for farms that are deemed safe!
+
+*Links:*
+https://www.reddit.com/r/Yield_Farming/comments/imvau7/all_you_need_to_know_about_yield_farming_the/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-solana-network-infographics-985936db4392
+https://twitter.com/idrawcharts/status/1439554125163794432?s=21
+
+> **How to set up a $SOL wallet and Staking on Raydium**
+> https://docs.google.com/document/d/1x5zMrnZy9607w09uXytWlkY_HxEVRaeU7hJZau3vYIE/edit?usp=sharing
+> 
+> https://cointheday.com/how-to-farm-on-raydium-io-and-earn-50-to-10-000-yield/
+> 
+> https://medium.com/tulipprotocol/solfarmers-education-impermanent-loss-498bb616ee4
+> 
+> https://dailydefi.org/tools/impermanent-loss-calculator/

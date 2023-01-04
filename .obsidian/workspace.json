@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "068127ac57837d5b",
+        "id": "5326c371c6733cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "62f15c7ea2753e6d",
+            "id": "ced695f810285103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mev-research",
+                "query": "taxes",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +108,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f15c7ea2753e6d",
+  "active": "ced695f810285103",
   "lastOpenFiles": [
-    "1. Crypto/Tools/Discord/Chat Exporter.md",
-    "3. Programming/Blockchain Dev/Pat Collins/Solidity Course.md",
     "1. Crypto/Beginner Guides/First Steps into Crypto.md",
-    "3. Programming/Community Resources/Officer CIA/DeFi Dev Roadmap.md",
-    "3. Programming/Blockchain Dev/Pat Collins/Defi py.md",
-    "3. Programming/Trading/Arbitrage/Jupiter Bot.md",
-    "1. Crypto/Infra/Gnosis Safe/Ape Safe.md",
-    "3. Programming/Trading/Arbitrage/Flashbots - Arbitrage.md",
-    "3. Programming/Trading/Arbitrage/Rage Bot.md",
-    "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md"
+    "1. Crypto/Beginner Guides/What is Defi.md",
+    "1. Crypto/Beginner Guides/Educational Courses/Anthony's Course.md",
+    "1. Crypto/Beginner Guides/Bridging Guide.md",
+    "2. Writings/Articles/GG Substack/KidP Articles/Crypto Tax.md",
+    "1. Crypto/Users/Shual/Shual's Crypto Tools.md",
+    "1. Crypto/Beginner Guides/Trading Guide.md",
+    "1. Crypto/Beginner Guides/Staking.md",
+    "1. Crypto/Beginner Guides/List of Resources.md",
+    "1. Crypto/Tools/Resources/Tax Guide.md"
   ]
 }
