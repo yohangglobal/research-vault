@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Security/ImmuneFi/Web3 Library/Vulnerabilities.md",
+                "file": "1. Crypto/MEV/Resources/Exploits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba63be587b20139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Crypto/Tools/BB Terminal/BB Terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90b181e18c4f9e7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Programming/Python/Cool projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Security/ImmuneFi/Web3 Library/Vulnerabilities.md",
+                "file": "3. Programming/Python/Cool projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Security/ImmuneFi/Web3 Library/Vulnerabilities.md",
+                "file": "3. Programming/Python/Cool projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Security/ImmuneFi/Web3 Library/Vulnerabilities.md"
+                "file": "3. Programming/Python/Cool projects.md"
               }
             }
           }
@@ -195,17 +219,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "90b181e18c4f9e7a",
   "lastOpenFiles": [
+    "1. Crypto/Tools/BB Terminal/BB Setup.md",
+    "1. Crypto/Tools/BB Terminal/BB Terminal.md",
+    "1. Crypto/DeFi/Derivatives/List of Derivs/0xperp Derivs.md",
+    "1. Crypto/MEV/Resources/Exploits.md",
+    "1. Crypto/Security/ImmuneFi/Web3 Library/Vulnerabilities.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Tools.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Smart Contracts.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Blockchain Concepts.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Bug fixes.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/Resources.md",
-    "1. Crypto/MEV/Resources/Flashbots - MEV Research.md",
-    "3. Programming/Community Resources/Dev Dao/Glossary.md",
-    "3. Programming/Community Resources/Dev Dao/Resources.md",
-    "1. Crypto/Beginner Guides/First Steps into Crypto.md"
+    "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md"
   ]
 }

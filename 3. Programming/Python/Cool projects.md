@@ -14,3 +14,5 @@ Scipy Docs:
 Python Trading for Finance:
 [](https://www.datacamp.com/community/tutorials/finance-python-trading)[https://www.datacamp.com/community/tutorials/finance-python-trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
 
+Quantstats portfolio analytics:
+https://github.com/ranaroussi/quantstats
