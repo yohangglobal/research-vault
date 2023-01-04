@@ -27,4 +27,4 @@ We regularly collaborate with other research organizations. This can take many s
 
 ## Resources
 - Access [past recordings of research workshops](https://www.youtube.com/playlist?list=PLRHMe0bxkuelLKy7oN409xqG_adEjYtxB) and our [public appearances](https://www.youtube.com/playlist?list=PLRHMe0bxkueksKZ1CBr-CGjrZgQHLJX6b) on our Youtube channel.
-- A selection of research papers and posts on MEV topics can be found in our [research vault](resources.md).
+- A selection of research papers and posts on MEV topics can be found in our [research vault](3.%20Programming/Python/Resources.md).
