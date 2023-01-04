@@ -1,5 +1,5 @@
 # Research Vault
->A personal collection of research from Obsidian.
+>A personal collection of my research from Obsidian.
 
 This database covers my notes over the past year, primarily within crypto research, readings, and personal writings. 
 Feel free to fork, add your own content, and use this as a framework for keeping up with the crypto industry.
