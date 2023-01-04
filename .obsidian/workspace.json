@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb61f4d7d7928fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Crypto/Infra/Gnosis Safe/Ape Safe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3bf4518287b1366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Programming/Trading/Arbitrage/Flashbots - Arbitrage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Programming/Trading/Arbitrage/Jupiter Bot.md",
+                "file": "3. Programming/Trading/Arbitrage/Flashbots - Arbitrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Programming/Trading/Arbitrage/Jupiter Bot.md",
+                "file": "3. Programming/Trading/Arbitrage/Flashbots - Arbitrage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Programming/Trading/Arbitrage/Jupiter Bot.md"
+                "file": "3. Programming/Trading/Arbitrage/Flashbots - Arbitrage.md"
               }
             }
           }
@@ -160,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a404e2242ceed01",
+  "active": "a3bf4518287b1366",
   "lastOpenFiles": [
+    "1. Crypto/Infra/Gnosis Safe/Ape Safe.md",
+    "3. Programming/Trading/Arbitrage/Jupiter Bot.md",
     "3. Programming/Trading/Arbitrage/Rage Bot.md",
     "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
     "1. Crypto/MEV/Resources/Flashbots - MEV Research.md",
@@ -169,8 +195,6 @@
     "1. Crypto/Tools/BB Terminal/BB Setup.md",
     "1. Crypto/Tools/BB Terminal/BB Terminal.md",
     "1. Crypto/DeFi/Derivatives/List of Derivs/0xperp Derivs.md",
-    "1. Crypto/MEV/Resources/Exploits.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/Vulnerabilities.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/Tools.md"
+    "1. Crypto/MEV/Resources/Exploits.md"
   ]
 }
