@@ -1,0 +1,102 @@
+# Collins' DeFi py
+#dev #defi #Python 
+
+Source: https://github.com/PatrickAlphaC/defi_py_mix
+
+# defi_py_mix
+
+For all your DeFi needs
+
+[You can see a smaller version of this here. ](https://github.com/PatrickAlphaC/aave_brownie_py)
+
+In our `aave_borrow.py` script, we do the following:
+
+1. Approve our `ETH` to be swapped for `WETH`
+2. Swap an `amount` of `ETH` for `WETH`
+3. Using `deposit_to_aave` we deposit the `WETH` as collateral
+4. We use that collateral to borrow `DAI` with `borrow_erc20`
+5. Then, we pay it back! 
+6. We can view the txs on etherscan to see what's going on under the hood. 
+
+In our `short_sell.py` script, we do the following:
+
+1. Approve our `ETH` to be swapped for `WETH`
+2. Swap an `amount` of `ETH` for `WETH`
+3. Using `deposit_to_aave` we deposit the `WETH` as collateral
+4. We use that collateral to borrow `DAI` with `borrow_erc20`
+5. We then sell that `DAI` on the `Uniswap` DEX
+This is essentailly a short sell on DAI!
+
+# Setup
+
+You'll need python, pipx, and eth-brownie installed. 
+
+Ideally you'd install with pipx
+```bash
+pip install --user pipx
+pipx ensurepath
+# restart your terminal
+pipx install eth-brownie
+```
+Or, you could try it with pip. 
+```
+pip install -r requirements.txt
+```
+Or, if you run into issues use pipx:
+
+
+You'll need the following [environment variables](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html). If you're unfamiliar with environment variables, you can set them all in your `.env` file:
+
+```
+export WEB3_INFURA_PROJECT_ID=YourProjectID
+export PRIVATE_KEY="0xasdfasdfasdfasd..."
+```
+
+- `PRIVATE_KEY`: Your Private Key from your Wallet. *Note: If using metamask, you'll have to add a 0x to the start of your private key.
+- `WEB3_INFURA_PROJECT_ID`: Your connection to the blockchain. You can get a URL from a service like [Infura](https://infura.io/)]. Right now it is hard coded to work with infura, but you can modify it however you want using `brownie networks modify`. 
+
+> Note: DO NOT SEND THESE TO GITHUB!!!
+
+And last, be sure to check the aave_dai_token if you're using a [testnet DAI token](https://docs.aave.com/developers/deployed-contracts/deployed-contracts0).  Aave sometimes changes the token they use on testnet to keep liquidity, [please check here for reference](https://aave.github.io/aave-addresses/kovan.json). 
+Also, feel free to check the [Aave docs](https://docs.aave.com/developers/the-core-protocol/lendingpool) as well, to learn more about the tools we are using. 
+
+# Quickstart - kovan
+
+1. [Get some kovan ETH](https://faucet.kovan.network/)
+
+2. Get some WETH
+
+```
+brownie run scripts/get_weth.py --network kovan
+```
+
+3. Run the script!
+
+```
+brownie run scripts/aave_borrow.py --network kovan
+```
+
+
+# Quickstart - mainnet-fork
+
+
+Optional for running locally:
+If you want to run locally, you can install `ganache-cli` and `yarn`. Here is where you can [install yarn.](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
+
+```
+yarn global add ganache-cli
+```
+
+Then, you can run `ganache-cli --fork YOUR_INFURA_URL_HERE`, or just `brownie run <YOUR_SCRIPT> --network mainnet-fork`
+
+1. Get some WETH, borrow, and repay!
+
+```
+brownie run scripts/aave/aave_borrow.py
+```
+
+Or, to test short selling:
+
+```
+brownie run scripts/swap/short_sell.py 
+```
