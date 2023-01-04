@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md",
+                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md",
+                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md",
+                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md"
+                "file": "1. Crypto/Beginner Guides/First Steps into Crypto.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "62f15c7ea2753e6d",
   "lastOpenFiles": [
-    "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
+    "2. Writings/Threads/1. Tweet Log.md",
     "0. Setup/Obsidian-Github Connection.md",
+    "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
     "README.md",
     "1. Crypto/Users/Stun/Portfolio.md",
     "1. Crypto/Users/Stun/Research Papers.md",
     "1. Crypto/Users/Stun/Research Method.md",
     "4. Attachments/Pasted image 20220822213141.png.md",
     "1. Crypto/DAOs/Frameworks/DAO Structures.md",
-    "3. Programming/Computer Science/Coding Roadmap.md",
-    "3. Programming/Coding Tips/Staying Consistent.md"
+    "3. Programming/Computer Science/Coding Roadmap.md"
   ]
 }
