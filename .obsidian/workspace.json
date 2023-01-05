@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fdda354d531d01e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,17 +152,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ced695f810285103",
+  "active": "5fdda354d531d01e",
   "lastOpenFiles": [
+    "1. Crypto/Beginner Guides/Staking.md",
+    "1. Crypto/DeFi/- Intro/DeFi Links.md",
+    "README.md",
     "1. Crypto/Infra/Nodes & RPCs/LlamaNodes.md",
     "1. Crypto/Infra/Nodes & RPCs/Alchemy.md",
-    "README.md",
-    "1. Crypto/Beginner Guides/First Steps into Crypto.md",
+    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
     "1. Crypto/Beginner Guides/What is Defi.md",
     "1. Crypto/Beginner Guides/Educational Courses/Anthony's Course.md",
     "1. Crypto/Beginner Guides/Bridging Guide.md",
-    "2. Writings/Articles/GG Substack/KidP Articles/Crypto Tax.md",
-    "1. Crypto/Users/Shual/Shual's Crypto Tools.md",
-    "1. Crypto/Beginner Guides/Trading Guide.md"
+    "2. Writings/Articles/GG Substack/KidP Articles/Crypto Tax.md"
   ]
 }
