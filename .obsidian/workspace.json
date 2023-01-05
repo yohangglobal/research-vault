@@ -23,8 +23,12 @@
             "id": "5fdda354d531d01e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md"
+              }
             }
           }
         ],
@@ -152,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "5fdda354d531d01e",
   "lastOpenFiles": [
     "1. Crypto/Beginner Guides/Staking.md",
     "1. Crypto/DeFi/- Intro/DeFi Links.md",
