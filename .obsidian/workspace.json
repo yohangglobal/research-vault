@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Writings/Podcasts/Flash LPing w Zaki.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5fdda354d531d01e",
+            "id": "655450ca7f702cd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md",
+                "file": "1. Crypto/Research/Readings/Newsletters.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md",
+                "file": "1. Crypto/Research/Readings/Newsletters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md",
+                "file": "1. Crypto/Research/Readings/Newsletters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Security/- Intro/OpSec in Crypto.md"
+                "file": "1. Crypto/Research/Readings/Newsletters.md"
               }
             }
           }
@@ -160,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fdda354d531d01e",
+  "active": "655450ca7f702cd7",
   "lastOpenFiles": [
-    "1. Crypto/Beginner Guides/Staking.md",
-    "1. Crypto/DeFi/- Intro/DeFi Links.md",
+    "2. Writings/Podcasts/Flash LPing w Zaki.md",
+    "2. Writings/Event Notes/DC Fintech Week.md",
+    "2. Writings/Podcasts/Hasu & Starkware.md",
+    "2. Writings/Podcasts/Tetra Up Only.md",
+    "2. Writings/Podcasts/SBF vs Voorhees.md",
+    "2. Writings/Podcasts/SEC Commission on Delphi.md",
     "README.md",
-    "1. Crypto/Infra/Nodes & RPCs/LlamaNodes.md",
-    "1. Crypto/Infra/Nodes & RPCs/Alchemy.md",
-    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
-    "1. Crypto/Beginner Guides/Guides/Exploring DeFi.md",
-    "1. Crypto/Beginner Guides/Educational Courses/Anthony's Course.md",
-    "1. Crypto/Beginner Guides/Guides/How to Bridge.md",
-    "2. Writings/Articles/GG Substack/KidP Articles/Crypto Tax.md"
+    "1. Crypto/Security/- Intro/OpSec in Crypto.md",
+    "1. Crypto/Beginner Guides/Staking.md",
+    "1. Crypto/DeFi/- Intro/DeFi Links.md"
   ]
 }
