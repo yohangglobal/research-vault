@@ -11,8 +11,12 @@
             "id": "98731e8fc8933153",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Research/Discord/Server Bots.md",
+                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Research/Discord/Server Bots.md",
+                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Research/Discord/Server Bots.md"
+                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md"
               }
             }
           }
@@ -143,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "98731e8fc8933153",
   "lastOpenFiles": [
     "1. Crypto/Research/Readings/Newsletters.md",
     "2. Writings/Podcasts/Flash LPing w Zaki.md",
