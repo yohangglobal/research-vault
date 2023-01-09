@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
+                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
+                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
+                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md"
+                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "98731e8fc8933153",
   "lastOpenFiles": [
+    "1. Crypto/DeFi/Yearn (YFI)/Dashboards & Sites.md",
+    "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
     "1. Crypto/Research/Readings/Newsletters.md",
     "2. Writings/Podcasts/Flash LPing w Zaki.md",
     "2. Writings/Event Notes/DC Fintech Week.md",
@@ -156,8 +158,6 @@
     "2. Writings/Podcasts/Tetra Up Only.md",
     "2. Writings/Podcasts/SBF vs Voorhees.md",
     "2. Writings/Podcasts/SEC Commission on Delphi.md",
-    "README.md",
-    "1. Crypto/Security/- Intro/OpSec in Crypto.md",
-    "1. Crypto/Beginner Guides/Staking.md"
+    "README.md"
   ]
 }
