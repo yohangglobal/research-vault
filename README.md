@@ -19,7 +19,7 @@ This database is organized into the following:
 - [Protocols](https://ggcapital.notion.site/Protocols-124ee578be7649209a994d0f1bcad0f7): where we share our thoughts on networks, forks, and new projects.
   - [Blockchains](https://ggcapital.notion.site/a5e1891050ce4fb8ab74d5511794a63b?v=e42f884bbbbf4e419760eb23667ce1b0): covering our favorite blockchains & their purpose in the industry.
   - [Projects](https://ggcapital.notion.site/5e0b376d344e4a74a31b98e5706a1d95?v=d444a0a8266f4d5ab6656ca424d80c83): key projects we have used, summarized, and strategized around.
-- [Reports](https://ggcapital.notion.site/Reports-bff5f2299bc84f8ca7c693e56d1d2ed7): our dashboard for displaying articles, writeups, and analysis in one place. This includes long-form posts as well summaries of podcasts & panel discussions.  
+- [Reports](https://ggcapital.notion.site/Reports-bff5f2299bc84f8ca7c693e56d1d2ed7): our dashboard for displaying articles, writeups, and analysis in one place. This includes long-form posts and summaries of podcasts & panel discussions.  
 - Guides: an in-progress collection of blockchain walkthroughs, guides to the ecosystem, and understanding crypto from first principles.
 
 ## Writings
