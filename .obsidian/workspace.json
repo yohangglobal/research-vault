@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
+                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
+                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
+                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md"
+                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "98731e8fc8933153",
   "lastOpenFiles": [
+    "1. Crypto/Beginner Guides/Guides/Guide to NFTs.md",
+    "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
+    "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
     "1. Crypto/DeFi/Yearn (YFI)/Dashboards & Sites.md",
     "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
     "1. Crypto/Research/Readings/Newsletters.md",
     "2. Writings/Podcasts/Flash LPing w Zaki.md",
     "2. Writings/Event Notes/DC Fintech Week.md",
     "2. Writings/Podcasts/Hasu & Starkware.md",
-    "2. Writings/Podcasts/Tetra Up Only.md",
-    "2. Writings/Podcasts/SBF vs Voorhees.md",
-    "2. Writings/Podcasts/SEC Commission on Delphi.md",
-    "README.md"
+    "2. Writings/Podcasts/Tetra Up Only.md"
   ]
 }

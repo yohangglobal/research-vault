@@ -11,7 +11,7 @@ Original source: https://www.veradiverdict.com/p/dao-treasury?r=33oci&utm_campai
 ## Questions about the subject
 
 -   What are some of the best ways to organize a treasury?
--   How could i use my current defi knowledge in this area?
+-   How could I use my current defi knowledge in this area?
 -   Who are the leading treasurers i should learn about?
 
 ## Reading notes
@@ -19,7 +19,7 @@ Original source: https://www.veradiverdict.com/p/dao-treasury?r=33oci&utm_campai
 ### DAO Summary
 
 -   Decentralized autonomous organizations (DAOs) are organizations that are fully democratically managed by their community members, in a trustless and transparent way, to help achieve a common mission.
--   BitDAO is a new treasury that focuses on the mass adoption of crypto across the world
+-   BitDAO is a new DAO that focuses on the mass adoption of crypto across the world with an immensely large treasury:
     -   Suggestions for growth:
     -   Collaboration with crypto projects: BitDAO plans to launch token swaps with existing and emerging DeFi projects and support them with R&D resources, liquidity, funding and co-development opportunities. The goal is to accelerate BitDAO partners to become category leaders. BitDAO will hold tokens of partner projects and is incentivized to support their success.
     -   Building out various DeFi products: BitDAO also intends to launch various DeFi products of its own, including a decentralized version of Bybit’s crypto futures exchange, a portal for the community to propose token swaps with promising early-stage projects, and programmatic implementations for governance and treasury management.
