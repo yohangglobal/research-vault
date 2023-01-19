@@ -1,7 +1,7 @@
 # How to connect Obsidian to Github
 
 ## Setup
-Visit https://obsidian.md/ and download for your OS
+Visit https://obsidian.md/ and download for your OS.
 
 Once installed, you can visit the [Obsidian Git](https://github.com/denolehov/obsidian-git/wiki/) repository to connect your vault or simply go to "Community Plugins" within your Vault settings and search "Git".
 
@@ -9,10 +9,18 @@ Go to "Settings" -> "Community plugins" -> "Browse", search for "Obsidian Git", 
 
 This repository should be the first that appears, which you can then Install and Enable within your Vault.
 
+### Obsidian location
+After installing the application, you can edit the folders within Obsidian through your File Explorer or within the app itself. Make sure you save this in a location you can remember!
+
 ### Git Installation
 From here, you should make sure you have Git installed. If not, visit https://git-scm.com/download/win for your specifc OS.
 
 When installing, you will then need to adjust your PATH environment. Click "Git from the command line and from 3rd-party software" so that your Vault can have access.
+
+### Fork and Add this Repo
+Obsidian is self-hosted within your local folders and allows for as much customization as you want. If you would like to start with this repository as your initial framework, you can fork this repository to your account or simply download the ZIP folder to your PC.
+
+After extracting this folder, you can copy the files and paste them into your Vault folder. You can then access the files within your Obsidian download and make as many edits as you wish.
 
 ## Resources
 Helpful repository w/ walkthrough:
@@ -24,13 +32,13 @@ Youtube explanation:
 https://www.youtube.com/watch?v=h3oK1yX3CZ8&feature=emb_logo
 
 ## Helpful tips
-
 After creating a ReadMe file within your repository, make sure to Pull changes within Obsidian prior to making any Commits/Pushes as the disconnection will affect any automatic Pushes you've enabled.
 
 Following initialization, try and create a framework around adding files and new resources as you learn. For instance, I have a Discord server that I dump information into but it can be a lot of data after a few days. 
 
 What I plan on doing is setting up time throughout/at the end of the day to scrape through my past messages and add them to different parts of the Vault. Since I have a private vault for everything else and this public vault, my next goal is finding a way to sync certain sections together or being able to cross-check each vault for any missing files between the two.
 
+### Plugins
 Once you fork this vault, you should be able to copy the interior files into your own vault, similar to copy-pasting folders/files. From there, you can open up Obsidian and stylize your vault using Community Plugins. Here's the main ones that I use:
 - Calendar - keeping up with my schedule and what I wrote each day
 - Dataview
@@ -40,9 +48,9 @@ Once you fork this vault, you should be able to copy the interior files into you
 - Mind Map - for fun
 - Ozan's Image - great for copying images
 - Style Settings - using this a lot
+
 ![[Pasted image 20230102133304.png]]
 
-## Writing on Github
-
+### Syntax
 Github Docs on Formatting/Syntax:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github

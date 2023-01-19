@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0. Setup/Obsidian-Github Connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0. Setup/Obsidian-Github Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0. Setup/Obsidian-Github Connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0. Setup/Obsidian-Github Connection.md"
               }
             }
           }
@@ -162,15 +162,15 @@
   },
   "active": "f710ca1ff6c7e30f",
   "lastOpenFiles": [
+    "Pasted.md",
+    "0. Setup/Obsidian-Github Connection.md",
+    "README.md",
     "2. Readings/New Research Papers/- Intro.md",
     "2. Readings/New Reports/- Intro.md",
     "2. Readings/New Articles/- Intro.md",
-    "README.md",
-    "0. Setup/Obsidian-Github Connection.md",
     "1. Crypto/DeFi/Aave (AAVE)/Related Events.md",
     "1. Crypto/DeFi/Aave (AAVE)/Governance Proposals.md",
     "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
-    "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
-    "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md"
+    "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md"
   ]
 }
