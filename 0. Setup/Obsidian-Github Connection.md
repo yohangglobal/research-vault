@@ -1,5 +1,12 @@
 # How to connect Obsidian to Github
 
+## Installation
+Visit https://obsidian.md/ and download for your OS
+
+Once installed, you can visit the [Obsidian Git](https://github.com/denolehov/obsidian-git/wiki/) repository to connect your vault or simply go to "Community Plugins" within your Vault settings and search "Git".
+
+This repository should be the first that appears, which you can then Install and Enable within your Vault.
+
 ## Resources
 Helpful repository w/ walkthrough:
 https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md
