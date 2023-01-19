@@ -10,7 +10,7 @@ The community has created this knowledge base to help you **learn** and **grow**
 
 ## Terminology
 
-- Visit the [Glossary](GLOSSARY.md) to understand more about a specific term.
+- Visit the [Glossary](Glossary.md) to understand more about a specific term.
 
 ## Getting Started with Web3 Development
 
