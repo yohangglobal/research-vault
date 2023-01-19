@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
+                "file": "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f710ca1ff6c7e30f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Crypto/DeFi/Aave (AAVE)/Related Events.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
+                "file": "1. Crypto/DeFi/Aave (AAVE)/Related Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
+                "file": "1. Crypto/DeFi/Aave (AAVE)/Related Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md"
+                "file": "1. Crypto/DeFi/Aave (AAVE)/Related Events.md"
               }
             }
           }
@@ -147,17 +160,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98731e8fc8933153",
+  "active": "f710ca1ff6c7e30f",
   "lastOpenFiles": [
-    "1. Crypto/Beginner Guides/Guides/Guide to NFTs.md",
+    "1. Crypto/DeFi/Aave (AAVE)/Governance Proposals.md",
+    "1. Crypto/DeFi/Aave (AAVE)/Related Events.md",
+    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
     "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
+    "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
+    "1. Crypto/Beginner Guides/Guides/Guide to NFTs.md",
     "1. Crypto/DeFi/Yearn (YFI)/Farms to add.md",
     "1. Crypto/DeFi/Yearn (YFI)/Dashboards & Sites.md",
     "2. Writings/Summary/Articles/Risk Strategies for Yearn's Vaults.md",
-    "1. Crypto/Research/Readings/Newsletters.md",
-    "2. Writings/Podcasts/Flash LPing w Zaki.md",
-    "2. Writings/Event Notes/DC Fintech Week.md",
-    "2. Writings/Podcasts/Hasu & Starkware.md",
-    "2. Writings/Podcasts/Tetra Up Only.md"
+    "1. Crypto/Research/Readings/Newsletters.md"
   ]
 }
