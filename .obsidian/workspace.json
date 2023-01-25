@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md",
+                "file": "1. Crypto/Tools/Flipside/ETH Educ. Bounties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9176fbb8790f95f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02ca47d6fb68bfe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md",
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md",
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Setup/Obsidian-Github Connection.md"
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md"
               }
             }
           }
@@ -160,17 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f710ca1ff6c7e30f",
+  "active": "02ca47d6fb68bfe6",
   "lastOpenFiles": [
-    "Pasted.md",
-    "0. Setup/Obsidian-Github Connection.md",
     "README.md",
+    "1. Crypto/Tools/Flipside/Earn Program.md",
+    "1. Crypto/Tools/Flipside/ETH Educ. Bounties.md",
+    "0. Setup/Obsidian-Github Connection.md",
+    "Pasted.md",
     "2. Readings/New Research Papers/- Intro.md",
     "2. Readings/New Reports/- Intro.md",
     "2. Readings/New Articles/- Intro.md",
     "1. Crypto/DeFi/Aave (AAVE)/Related Events.md",
-    "1. Crypto/DeFi/Aave (AAVE)/Governance Proposals.md",
-    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
-    "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md"
+    "1. Crypto/DeFi/Aave (AAVE)/Governance Proposals.md"
   ]
 }
