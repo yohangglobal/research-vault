@@ -31,3 +31,5 @@ This database is organized into the following:
 
 ## Writings
 >For all articles & reports based on the notes here, visit our Substack at [GG Research](https://ggcapital.substack.com/)
+
+All of my writings can also be found linked on my [Twitter](https://twitter.com/yohangglobal).

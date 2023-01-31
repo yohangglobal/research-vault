@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "9176fbb8790f95f7",
   "lastOpenFiles": [
+    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
     "README.md",
     "1. Crypto/Tools/Flipside/Earn Program.md",
     "1. Crypto/Tools/Flipside/ETH Educ. Bounties.md",
@@ -182,7 +183,6 @@
     "2. Readings/New Research Papers/- Intro.md",
     "2. Readings/New Reports/- Intro.md",
     "2. Readings/New Articles/- Intro.md",
-    "1. Crypto/DeFi/Aave (AAVE)/Related Events.md",
-    "1. Crypto/DeFi/Aave (AAVE)/Governance Proposals.md"
+    "1. Crypto/DeFi/Aave (AAVE)/Related Events.md"
   ]
 }
