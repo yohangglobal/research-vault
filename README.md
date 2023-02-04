@@ -14,11 +14,27 @@ Feel free to fork, add your own content, and use this as a framework for keeping
 	- Research
 	- Helpful Tools
 2. [Readings](https://github.com/yohangglobal/research-vault/tree/main/2.%20Readings): adding new articles and reports that I read or want to read which are yet to be summarized.
+	- Brain Dumps: 
+	- New Articles:
+	- New Reports:
 3. [Writings](https://github.com/yohangglobal/research-vault/tree/main/2.%20Writings): collecting notes from previous Articles & Threads with Events & Podcasts I've listened to and summarized.
+	- Articles:
+	- Event Notes:
+	- Podcasts:
+	- Summary:
+	- Threads:
 4. [Programming](https://github.com/yohangglobal/research-vault/tree/main/3.%20Programming): reviewing courses in Computer Science/SQL & Python projects that people can try out.
+	- Blockchain Development:
+	- Coding tips:
+	- Community Resources:
+	- Computer Science:
+	- Python:
+	- Rust:
+	- SQL:
+	- Trading:
 
 ## Published Pages
->This vault acts as a more informal brain dump of thoughts & summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/research).
+>This vault acts as a more informal brain dump of thoughts and summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/research).
 
 Feel free to keep up with our published findings in our [Research Database](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09).
 
@@ -33,3 +49,8 @@ This database is organized into the following:
 >For all articles & reports based on the notes here, visit our Substack at [GG Research](https://ggcapital.substack.com/)
 
 All of my writings can also be found linked on my [Twitter](https://twitter.com/yohangglobal).
+
+These are split into three different subsections:
+- [GG Research](https://ggcapital.substack.com/)
+- [Crypto Regulations](https://ggcapital.substack.com/s/crypto-regulations)
+- [Rabbitholes](https://ggcapital.substack.com/s/rabbitholes)
