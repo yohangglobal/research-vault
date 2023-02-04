@@ -1,11 +1,11 @@
 # Research Vault
 >A personal collection of my research compiled through Obsidian Vaults.
 
-[![Research Database](https://img.shields.io/badge/Research-Database-purple )](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09)  [![Contact](https://img.shields.io/badge/Contact-yohangg%40ggcapital.io-lightpurple)](mailto:yohangg@ggcapital.io)
+[![Research Database](https://img.shields.io/badge/Research-Database-purple )](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09)  [![Contact](https://img.shields.io/badge/Contact-lightpurple-yohangg%40ggcapital.io)](mailto:yohangg@ggcapital.io)
 
 **This repository acts as an ongoing compendium for my research, notes, and thoughts around the crypto industry.** 
 
-**I use this as a 2nd brain for my research projects at [GG Capital](https://ggcapital.io), my writings on [Substack](https://ggcapital.substack.com) and random thoughts + threads on [Twitter](https://twitter.com/yohangglobal).**
+**I use this as a 2nd brain for my research projects at [GG Capital](https://ggcapital.io), my writings on [Substack](https://ggcapital.substack.com), and random thoughts + threads on [Twitter](https://twitter.com/yohangglobal).**
 
 Feel free to fork, add your own content, and use this as a framework for keeping up with the crypto industry or your own personal research!
 
