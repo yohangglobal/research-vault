@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98731e8fc8933153",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f710ca1ff6c7e30f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/Tools/Flipside/ETH Educ. Bounties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9176fbb8790f95f7",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9176fbb8790f95f7",
+  "active": "2f3906c1a4afb06f",
   "lastOpenFiles": [
-    "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
+    "2. Readings/Resources/Newsletters.md",
     "README.md",
+    "1. Crypto/Tools/Discord/Server Bots.md",
     "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
+    "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
     "1. Crypto/Tools/Flipside/Earn Program.md",
     "1. Crypto/Tools/Flipside/ETH Educ. Bounties.md",
     "0. Setup/Obsidian-Github Connection.md",
     "Pasted.md",
-    "2. Readings/New Research Papers/- Intro.md",
-    "2. Readings/New Reports/- Intro.md",
-    "2. Readings/New Articles/- Intro.md"
+    "2. Readings/New Research Papers/- Intro.md"
   ]
 }

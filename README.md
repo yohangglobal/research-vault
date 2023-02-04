@@ -7,12 +7,13 @@ Feel free to fork, add your own content, and use this as a framework for keeping
 ## Table of Contents
 0. [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setup): creating your own Obsidian<>Github connection.
 1. [Crypto](https://github.com/yohangglobal/research-vault/tree/main/1.%20Crypto): covering Guides, DAOs, DeFi, Ecosystems, and Tools to get a user with any level of experience up to speed.
-	- Beginner Guides
-	- DAOs and DeFi
-	- Blockchain Ecosystems
-	- Infrastructure and Security
-	- Research
-	- Helpful Tools
+	- Beginner Guides: educational courses and helpful guides for you to start out with.
+	- DAOs and DeFi: DAO treasuries, management frameworks, and exploring DeFi protocols.
+	- Blockchain Ecosystems: diving into various protocols across Layer 1s and 2s.
+	- Infrastructure and Security: explaining Multisigs, Nodes, and RPC providers.
+	- MEV: compiling resources on MEV products and various exploits.
+	- Research: understanding Bitcoin/cryptography, Ethereum and DeFi, and newer findings in Rollups and ZK Proofs.
+	- Helpful Tools:
 2. [Readings](https://github.com/yohangglobal/research-vault/tree/main/2.%20Readings): adding new articles and reports that I read or want to read which are yet to be summarized.
 	- Brain Dumps: 
 	- New Articles:
