@@ -1,8 +1,14 @@
 # Research Vault
->A personal collection of my research from Obsidian.
+>A personal collection of my research using Obsidian Vaults.
 
 This database covers my notes over the past year, primarily within crypto research, readings, and personal writings. 
+
 Feel free to fork, add your own content, and use this as a framework for keeping up with the crypto industry.
+
+## Setup
+To properly display this vault, download [Obsidian](https://obsidian.md/download) and create your own vault. From this repository, you can integrate each area you are interested in and build your database from scratch. 
+
+Visit [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setup) where I have detailed these steps to get you started.
 
 ## Table of Contents
 0. [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setup): creating your own Obsidian<>Github connection.
@@ -13,26 +19,26 @@ Feel free to fork, add your own content, and use this as a framework for keeping
 	- Infrastructure and Security: explaining Multisigs, Nodes, and RPC providers.
 	- MEV: compiling resources on MEV products and various exploits.
 	- Research: understanding Bitcoin/cryptography, Ethereum and DeFi, and newer findings in Rollups and ZK Proofs.
-	- Helpful Tools:
+	- Helpful Tools: working through analytics platforms, server integrations, and BIP related resources.
 2. [Readings](https://github.com/yohangglobal/research-vault/tree/main/2.%20Readings): adding new articles and reports that I read or want to read which are yet to be summarized.
-	- Brain Dumps: 
-	- New Articles:
-	- New Reports:
-3. [Writings](https://github.com/yohangglobal/research-vault/tree/main/2.%20Writings): collecting notes from previous Articles & Threads with Events & Podcasts I've listened to and summarized.
-	- Articles:
-	- Event Notes:
-	- Podcasts:
-	- Summary:
-	- Threads:
+	- Brain Dumps: days where I compile all the links I have seen and want to refer back to.
+	- New Articles: blog posts that I have read but are yet to be summarized or organized.
+	- New Reports: published reports from various sources that I find interesting.
+	- New Research Papers: academic papers that cover topics I want to delve further into.
+3. [Writings](https://github.com/yohangglobal/research-vault/tree/main/2.%20Writings): collecting notes from previous Articles and Threads with Events and Podcasts I've listened to and summarized.
+	- Articles: notes and resources used for the substack articles I write.
+	- Event Notes: listening in on interesting events in crypto.
+	- Podcasts: summarizing important topics during my favorite podcasts.
+	- Summary: a collection of my note-taking for articles, reports, and research papers.
+	- Threads: twitter thread ideas and a log of my past threads.
 4. [Programming](https://github.com/yohangglobal/research-vault/tree/main/3.%20Programming): reviewing courses in Computer Science/SQL & Python projects that people can try out.
-	- Blockchain Development:
-	- Coding tips:
-	- Community Resources:
-	- Computer Science:
-	- Python:
-	- Rust:
-	- SQL:
-	- Trading:
+	- Blockchain Development: my path in learning about blockchain dev.
+	- Community Resources: developer groups and resources for you to take advantage of.
+	- Computer Science: initial priniciples such as file systems and Github tutorials.
+	- Python: cool projects and tutorials from W3 Schools and other programs.
+	- Rust: learning Rust through Solana's developer resources.
+	- SQL: data analysis skillsets and areas to apply SQL to blockchain data.
+	- Trading: arbitrage bots and accessing on-chain trades.
 
 ## Published Pages
 >This vault acts as a more informal brain dump of thoughts and summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/research).
