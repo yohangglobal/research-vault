@@ -1,5 +1,5 @@
 # Research Vault
->A personal collection of my research using Obsidian Vaults.
+>A personal collection of my research compiled through Obsidian Vaults.
 
 This database covers my notes over the past year, primarily within crypto research, readings, and personal writings. 
 
@@ -55,9 +55,9 @@ This database is organized into the following:
 ## Writings
 >For all articles & reports based on the notes here, visit our Substack at [GG Research](https://ggcapital.substack.com/)
 
-All of my writings can also be found linked on my [Twitter](https://twitter.com/yohangglobal).
+This blog is split into three different subsections:
+- [GG Research](https://ggcapital.substack.com/): our primary collection of research.
+- [Crypto Regulations](https://ggcapital.substack.com/s/crypto-regulations): policy insights and highlights from Capitol Hill.
+- [Rabbitholes](https://ggcapital.substack.com/s/rabbitholes): articles where I dive into new areas of crypto, mixed in with my thoughts on life.
 
-These are split into three different subsections:
-- [GG Research](https://ggcapital.substack.com/)
-- [Crypto Regulations](https://ggcapital.substack.com/s/crypto-regulations)
-- [Rabbitholes](https://ggcapital.substack.com/s/rabbitholes)
+All of my writings and other musings can also be found linked on my [Twitter](https://twitter.com/yohangglobal).

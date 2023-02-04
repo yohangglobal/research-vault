@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md"
+                "file": "README.md"
               }
             }
           }
@@ -153,17 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "9176fbb8790f95f7",
   "lastOpenFiles": [
+    "Blockchain Concepts/README.md",
+    "1. Crypto/MEV/Resources/Exploits.md",
     "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Resources.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Bug fixes.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Blockchain Concepts.md",
-    "Blockchain Concepts/README.md",
     "0. Setup/Homepage.canvas",
     "3. Writings/Articles/JewelBoyz/Bank Report Edition I.md",
-    "README.md",
-    "2. Readings/Resources/Newsletters.md"
+    "README.md"
   ]
 }
