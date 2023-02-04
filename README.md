@@ -1,9 +1,10 @@
 # Research Vault
 >A personal collection of my research compiled through Obsidian Vaults.
+[![Research Database](https://img.shields.io/badge/Research-Database-purple )](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09)  [![Contact](https://img.shields.io/badge/Contact-yohangg%40ggcapital.io-lightpurple)](mailto:yohangg@ggcapital.io)
 
-This database covers my notes over the past year, primarily within crypto research, readings, and personal writings. 
+**This repository acts as an ongoing compendium for my research, notes, and thoughts around the crypto industry. I use this as a 2nd brain for my research projects at [GG Capital](https://ggcapital.io), my writings on [Substack](https://ggcapital.substack.com) and random thoughts + threads on [Twitter](https://twitter.com/yohangglobal). 
 
-Feel free to fork, add your own content, and use this as a framework for keeping up with the crypto industry.
+Feel free to fork, add your own content, and use this as a framework for keeping up with the crypto industry or your own personal research!
 
 ## Setup
 To properly display this vault, download [Obsidian](https://obsidian.md/download) and create your own vault. From this repository, you can integrate each area you are interested in and build your database from scratch. 
