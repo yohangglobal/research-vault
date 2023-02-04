@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "taxes",
+                "query": "tag:#Python",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,23 +114,29 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "64e9cf4ec2114c93",
+        "type": "tabs",
+        "children": [
           {
             "id": "f85aa35e40c74df5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Crypto/Tools/Arkham Intel/VC Wallets.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,17 +153,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "9176fbb8790f95f7",
   "lastOpenFiles": [
-    "2. Readings/Resources/Newsletters.md",
+    "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
+    "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
+    "1. Crypto/Security/ImmuneFi/Web3 Library/Resources.md",
+    "1. Crypto/Security/ImmuneFi/Web3 Library/Bug fixes.md",
+    "1. Crypto/Security/ImmuneFi/Web3 Library/Blockchain Concepts.md",
+    "Blockchain Concepts/README.md",
+    "0. Setup/Homepage.canvas",
+    "3. Writings/Articles/JewelBoyz/Bank Report Edition I.md",
     "README.md",
-    "1. Crypto/Tools/Discord/Server Bots.md",
-    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
-    "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
-    "1. Crypto/Tools/Flipside/Earn Program.md",
-    "1. Crypto/Tools/Flipside/ETH Educ. Bounties.md",
-    "0. Setup/Obsidian-Github Connection.md",
-    "Pasted.md",
-    "2. Readings/New Research Papers/- Intro.md"
+    "2. Readings/Resources/Newsletters.md"
   ]
 }

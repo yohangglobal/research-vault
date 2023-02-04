@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#7a59e8",
+  "interfaceFontFamily": "Garamond",
+  "monospaceFontFamily": "Microsoft JhengHei",
+  "translucency": true,
+  "cssTheme": "Catppuccin"
 }
