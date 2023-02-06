@@ -1,5 +1,5 @@
 # Research Vault
->A personal collection of my research compiled through Obsidian Vaults.
+>A personal collection of my research compiled through an Obsidian Vault.
 
 [![Research Database](https://img.shields.io/badge/Research-Database-purple )](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09)  [![Contact](https://img.shields.io/badge/Contact-yohangg%40ggcapital.io-purple)](mailto:yohangg@ggcapital.io)
 
@@ -16,6 +16,7 @@ Visit [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setu
 
 ## Table of Contents
 0. [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setup): creating your own Obsidian<>Github connection.
+	- Homepage: the main starting location for understanding the layout and topics covered within my Research Vault.
 1. [Crypto](https://github.com/yohangglobal/research-vault/tree/main/1.%20Crypto): covering Guides, DAOs, DeFi, Ecosystems, and Tools to get a user with any level of experience up to speed.
 	- Beginner Guides: educational courses and helpful guides for you to start out with.
 	- DAOs and DeFi: DAO treasuries, management frameworks, and exploring DeFi protocols.
