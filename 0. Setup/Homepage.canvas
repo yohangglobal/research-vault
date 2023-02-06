@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"aca2eb1145b0db1d","x":-332,"y":-207,"width":329,"height":306,"type":"file","file":"1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md"},
+		{"id":"230cb3566b292654","x":65,"y":-211,"width":350,"height":310,"type":"file","file":"2. Readings/Brain Dump/- Intro.md"}
+	],
+	"edges":[]
+}

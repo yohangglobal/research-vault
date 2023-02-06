@@ -3,7 +3,7 @@
 
 **CRYPTO FAQ**
 
-**- [ ]  What is Blockchain?**
+**- What is Blockchain?**
 
 **- [ ]  The blockchain is similar to a permanent book of records that keeps a log of all transactions that have taken place in chronological order.**
 Let’s envision a bank transaction in which there are three parties: the sender, the bank, and the recipient. In order to ensure that there are no fraudulent transactions, the bank acts as the central authority between the parties.

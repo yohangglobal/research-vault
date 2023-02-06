@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
+                "file": "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "390b7f51d3d3dc7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Readings/Brain Dump/- Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
+                "file": "2. Readings/Brain Dump/- Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
+                "file": "2. Readings/Brain Dump/- Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md"
+                "file": "2. Readings/Brain Dump/- Intro.md"
               }
             }
           }
@@ -153,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9176fbb8790f95f7",
+  "active": "390b7f51d3d3dc7e",
   "lastOpenFiles": [
-    "0. Setup/Obsidian-Github Connection.md",
+    "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
     "0. Setup/Homepage.canvas",
+    "2. Readings/Brain Dump/- Intro.md",
+    "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
+    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
+    "1. Crypto/MEV/- Intro/MEV for Beginners.md",
+    "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
+    "0. Setup/Obsidian-Github Connection.md",
     "README.md",
-    "Blockchain Concepts/README.md",
-    "1. Crypto/MEV/Resources/Exploits.md",
-    "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/Resources.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/Bug fixes.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/Blockchain Concepts.md"
+    "Blockchain Concepts/README.md"
   ]
 }
