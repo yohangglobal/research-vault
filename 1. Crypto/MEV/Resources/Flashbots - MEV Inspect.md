@@ -1,15 +1,10 @@
 # Mev Inspect.py
-#dev #mev 
+#dev #mev  
 
 Source: https://github.com/flashbots/mev-inspect-py
 
 # mev-inspect-py
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![Discord](https://img.shields.io/discord/755466764501909692)](https://discord.gg/7hvTycdNcK)
-
 [Maximal extractable value](https://ethereum.org/en/developers/docs/mev/) inspector for Ethereum, to illuminate the [dark forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/) 🌲💡
-
 Given a block, mev-inspect finds:
 - miner payments (gas + coinbase)
 - tokens transfers and profit

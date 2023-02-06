@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md"
               }
             }
           }
@@ -155,15 +155,15 @@
   },
   "active": "9176fbb8790f95f7",
   "lastOpenFiles": [
+    "0. Setup/Obsidian-Github Connection.md",
+    "0. Setup/Homepage.canvas",
+    "README.md",
     "Blockchain Concepts/README.md",
     "1. Crypto/MEV/Resources/Exploits.md",
     "1. Crypto/Tools/Arkham Intel/VC Wallets.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Resources.md",
     "1. Crypto/Security/ImmuneFi/Web3 Library/Bug fixes.md",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/Blockchain Concepts.md",
-    "0. Setup/Homepage.canvas",
-    "3. Writings/Articles/JewelBoyz/Bank Report Edition I.md",
-    "README.md"
+    "1. Crypto/Security/ImmuneFi/Web3 Library/Blockchain Concepts.md"
   ]
 }
