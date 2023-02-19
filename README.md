@@ -36,7 +36,9 @@ This repository should be the first that appears, which you can then Install and
 ## Obsidian location
 [(Back to top)](#table-of-contents)
 
-After installing the application, you can edit the folders within Obsidian through your File Explorer or within the app itself. Make sure you save this in a location you can remember! For me, I have this located as "Research Vault" within my GG Capital folder.
+After installing the application, you can edit the folders within Obsidian through your File Explorer or within the app itself. 
+
+Make sure you save this in a location you can remember! For me, I have this located as "Research Vault" within my GG Capital folder.
 
 ## Git Installation
 [(Back to top)](#table-of-contents)
@@ -50,7 +52,9 @@ When installing, you will have the option to adjust your PATH environment which 
 
 Obsidian is self-hosted within your local folders and allows for as much customization as you want. If you would like to start with this repository as your initial framework, you can fork this repository to your account or simply download the ZIP folder to your PC.
 
-After extracting this folder, you can copy the files and paste them into your Vault folder. You can then access the files within your Obsidian download and make as many edits as you wish. For best practices, I would recommend becoming familiar with Obsidian's installed plugins and then expanding into the wide range of Community Plugins that have been created.
+After extracting this folder, you can copy the files and paste them into your Vault folder. You can then access the files within your Obsidian download and make as many edits as you wish. 
+
+For best practices, I would recommend becoming familiar with Obsidian's installed plugins and then expanding into the wide range of Community Plugins that have been created.
 
 Visit [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setup) for more details on how to get started and other tips.
 
