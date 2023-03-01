@@ -1,4 +1,5 @@
-![[vault-header.jpg]]
+![Vault Header](vault-header.jpg)
+
 # Research Vault
 >A personal collection of my research and how you can compile your own through an Obsidian Vault.
 
@@ -118,3 +119,6 @@ This blog is split into three different subsections:
 - [Rabbitholes](https://ggcapital.substack.com/s/rabbitholes): articles where I dive into new areas of crypto, mixed in with my thoughts on life.
 
 All of my writings and other musings can also be found linked on my [Twitter](https://twitter.com/yohangglobal).
+
+# Begin your Research Journey
+![Vault Footer](vault-footer.jpg)
