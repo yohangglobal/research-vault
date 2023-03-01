@@ -11,8 +11,12 @@
             "id": "390b7f51d3d3dc7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md"
+              }
             }
           },
           {
@@ -153,7 +161,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "390b7f51d3d3dc7e",
   "lastOpenFiles": [
     "README.md",
     "0. Setup/Homepage.canvas",
