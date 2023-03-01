@@ -11,18 +11,55 @@
             "id": "390b7f51d3d3dc7e",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Readings/Brain Dump/2022/08-2022/8-21-2022 - Protocol Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff7af02fd494ec7c",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "0. Setup/Homepage.canvas",
                 "viewState": {
-                  "x": -993.5588345536055,
-                  "y": -348.6048490175401,
-                  "zoom": -1.543341826051474
+                  "x": 1476.9839611614268,
+                  "y": -817.8307842342285,
+                  "zoom": -3.344946079818665
                 }
               }
             }
+          },
+          {
+            "id": "907c957b578f05b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Readings/Brain Dump/2023/- 2023 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0595d92519182484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Readings/Brain Dump/2022/- 2022 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,18 +201,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "390b7f51d3d3dc7e",
+  "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
-    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
+    "2. Readings/Brain Dump/2023/- 2023 Summary.md",
     "0. Setup/Homepage.canvas",
+    "2. Readings/Brain Dump/2022/- 2022 Summary.md",
+    "1. Crypto/DAOs/- Intro/DAOs Homepage.md",
+    "2. Readings/Brain Dump/2022/08-2022/8-21-2022 - Protocol Testing.md",
+    "2. Readings/Brain Dump/2022/09-2022/9-05-2022 - DeFi and Readings.md",
+    "2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md",
+    "2. Readings/Brain Dump/2023",
+    "2. Readings/Brain Dump/2022",
+    "2. Readings/Brain Dump/2022/09-2022",
+    "2. Readings/Brain Dump/2022/08-2022",
+    "2. Readings/Brain Dump/2023/01-2023",
+    "2. Readings/Brain Dump/- Intro",
+    "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
+    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
     "1. Crypto/Beginner Guides/Guides/Trading Crypto.md",
     "README.md",
-    "2. Readings/Brain Dump/8-21-2022 - Protocol Testing.md",
-    "2. Readings/Brain Dump/9-05-2022 - DeFi and Readings.md",
     "2. Readings/9.md",
-    "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
     "vault-header.jpg",
-    "2. Readings/Brain Dump/- Intro.md",
     "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
     "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
     "1. Crypto/MEV/- Intro/MEV for Beginners.md",
