@@ -11,15 +11,8 @@
             "id": "ff7af02fd494ec7c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0. Setup/Homepage.canvas",
-                "viewState": {
-                  "x": 1120.4801720730804,
-                  "y": -347,
-                  "zoom": -3.015487125842313
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Setup/Homepage.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +155,11 @@
   },
   "active": "2f3906c1a4afb06f",
   "lastOpenFiles": [
-    "README.md",
+    "vault-footer.jpg",
+    "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
     "0. Setup/Homepage.canvas",
+    "vault-header.jpg",
+    "README.md",
     "2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md",
     "1. Crypto/DAOs/Treasuries/Protocol Treasury Structures.md",
     "1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md",
@@ -186,7 +178,6 @@
     "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
     "1. Crypto/Beginner Guides/Guides/Trading Crypto.md",
     "2. Readings/9.md",
-    "vault-header.jpg",
     "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
     "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
     "1. Crypto/MEV/- Intro/MEV for Beginners.md",
