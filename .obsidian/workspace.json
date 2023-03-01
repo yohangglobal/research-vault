@@ -15,9 +15,9 @@
               "state": {
                 "file": "0. Setup/Homepage.canvas",
                 "viewState": {
-                  "x": 2954.003981120177,
-                  "y": -613.854351897653,
-                  "zoom": -2.4990644084972655
+                  "x": 1455.5094764663718,
+                  "y": -347,
+                  "zoom": -3.015487125842313
                 }
               }
             }
@@ -166,8 +166,9 @@
   },
   "active": "2f3906c1a4afb06f",
   "lastOpenFiles": [
-    "2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md",
+    "README.md",
     "0. Setup/Homepage.canvas",
+    "2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md",
     "1. Crypto/DAOs/Treasuries/Protocol Treasury Structures.md",
     "1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md",
     "2. Readings/Brain Dump/2023/- 2023 Summary.md",
@@ -184,7 +185,6 @@
     "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
     "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
     "1. Crypto/Beginner Guides/Guides/Trading Crypto.md",
-    "README.md",
     "2. Readings/9.md",
     "vault-header.jpg",
     "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
