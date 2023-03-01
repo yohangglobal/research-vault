@@ -11,11 +11,14 @@
             "id": "390b7f51d3d3dc7e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "0. Setup/Homepage.canvas",
+                "viewState": {
+                  "x": -993.5588345536055,
+                  "y": -348.6048490175401,
+                  "zoom": -1.543341826051474
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0. Setup/Homepage.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0. Setup/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0. Setup/Homepage.canvas"
               }
             }
           },
@@ -148,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,17 +166,18 @@
   },
   "active": "390b7f51d3d3dc7e",
   "lastOpenFiles": [
+    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
+    "0. Setup/Homepage.canvas",
+    "1. Crypto/Beginner Guides/Guides/Trading Crypto.md",
+    "README.md",
     "2. Readings/Brain Dump/8-21-2022 - Protocol Testing.md",
     "2. Readings/Brain Dump/9-05-2022 - DeFi and Readings.md",
     "2. Readings/9.md",
     "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
-    "README.md",
     "vault-header.jpg",
-    "0. Setup/Homepage.canvas",
     "2. Readings/Brain Dump/- Intro.md",
     "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
     "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
-    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
     "1. Crypto/MEV/- Intro/MEV for Beginners.md",
     "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
     "0. Setup/Obsidian-Github Connection.md",

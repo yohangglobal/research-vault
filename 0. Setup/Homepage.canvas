@@ -1,7 +1,20 @@
 {
 	"nodes":[
-		{"id":"aca2eb1145b0db1d","x":-332,"y":-207,"width":329,"height":306,"type":"file","file":"1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md"},
-		{"id":"230cb3566b292654","x":65,"y":-211,"width":350,"height":310,"type":"file","file":"2. Readings/Brain Dump/- Intro.md"}
+		{"type":"file","file":"1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md","id":"aca2eb1145b0db1d","x":-680,"y":-280,"width":329,"height":306},
+		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/How to Bridge.md","id":"bd186f3a7e6e60d6","x":-130,"y":-530,"width":310,"height":306},
+		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/Trading Crypto.md","id":"e81455f237135016","x":-134,"y":-970,"width":319,"height":306},
+		{"type":"file","file":"2. Readings/Brain Dump/- Intro.md","id":"230cb3566b292654","x":-1190,"y":880,"width":350,"height":310},
+		{"type":"text","text":"# Crypto Research\n## Getting Started","id":"645d29fc1f55f0d3","x":-1200,"y":-735,"width":360,"height":143},
+		{"type":"text","text":"# Category Breakdown\n## Create new sections for each folder","id":"d535e46032816faf","x":-680,"y":-1360,"width":397,"height":172},
+		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/Guide to NFTs.md","id":"66efdd093cc86b7b","x":-130,"y":-80,"width":315,"height":287},
+		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/Exploring DeFi.md","id":"a13f696f4b347d49","x":-140,"y":360,"width":320,"height":306}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"7486f087008482fd","fromNode":"645d29fc1f55f0d3","fromSide":"right","toNode":"aca2eb1145b0db1d","toSide":"left"},
+		{"id":"75bc9b90d8ee636b","fromNode":"aca2eb1145b0db1d","fromSide":"right","toNode":"a13f696f4b347d49","toSide":"left"},
+		{"id":"7de9c6dc0a053050","fromNode":"aca2eb1145b0db1d","fromSide":"right","toNode":"66efdd093cc86b7b","toSide":"left"},
+		{"id":"f9174bb05500c49b","fromNode":"aca2eb1145b0db1d","fromSide":"right","toNode":"bd186f3a7e6e60d6","toSide":"left"},
+		{"id":"17d778baba0bcd4a","fromNode":"aca2eb1145b0db1d","fromSide":"right","toNode":"e81455f237135016","toSide":"left"},
+		{"id":"20365386ea61d50f","fromNode":"645d29fc1f55f0d3","fromSide":"right","toNode":"d535e46032816faf","toSide":"left"}
+	]
 }
