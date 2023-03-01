@@ -1,5 +1,4 @@
-![Banner](https://github.com/yohangglobal/research-vault/blob/main/vault-header.jpg)
-
+![[vault-header.jpg]]
 # Research Vault
 >A personal collection of my research and how you can compile your own through an Obsidian Vault.
 

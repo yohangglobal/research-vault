@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Python",
+                "query": "tag:#resources",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md"
+                "file": "README.md"
               }
             }
           },
@@ -144,8 +144,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,12 @@
   },
   "active": "390b7f51d3d3dc7e",
   "lastOpenFiles": [
+    "2. Readings/Brain Dump/8-21-2022 - Protocol Testing.md",
+    "2. Readings/Brain Dump/9-05-2022 - DeFi and Readings.md",
+    "2. Readings/9.md",
+    "2. Readings/Brain Dump/1-25-2023 - Blockchain Architecture.md",
     "README.md",
+    "vault-header.jpg",
     "0. Setup/Homepage.canvas",
     "2. Readings/Brain Dump/- Intro.md",
     "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
