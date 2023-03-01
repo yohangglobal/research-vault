@@ -1,16 +1,19 @@
 {
 	"nodes":[
-		{"type":"file","file":"1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md","id":"aca2eb1145b0db1d","x":-680,"y":-280,"width":329,"height":306},
+		{"type":"file","file":"1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md","id":"aca2eb1145b0db1d","x":-680,"y":-280,"width":329,"height":306,"color":"4"},
 		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/How to Bridge.md","id":"bd186f3a7e6e60d6","x":-130,"y":-530,"width":310,"height":306},
 		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/Trading Crypto.md","id":"e81455f237135016","x":-134,"y":-970,"width":319,"height":306},
 		{"type":"text","text":"# Category Breakdown\n## Create new sections for each folder","id":"d535e46032816faf","x":-680,"y":-1360,"width":397,"height":172},
 		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/Guide to NFTs.md","id":"66efdd093cc86b7b","x":-130,"y":-80,"width":315,"height":287},
 		{"type":"file","file":"1. Crypto/Beginner Guides/Guides/Exploring DeFi.md","id":"a13f696f4b347d49","x":-140,"y":360,"width":320,"height":306},
-		{"type":"text","text":"# Crypto Research\n## Getting Started","id":"645d29fc1f55f0d3","x":-1840,"y":-735,"width":360,"height":143},
-		{"type":"file","file":"1. Crypto/DAOs/- Intro/DAOs Homepage.md","id":"f2dc94fa6d2a41d9","x":-1015,"y":360,"width":335,"height":306},
-		{"type":"file","file":"2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md","id":"230cb3566b292654","x":2160,"y":-970,"width":350,"height":310},
-		{"id":"b4f246c66f932f69","x":2975,"y":-970,"width":335,"height":310,"type":"file","file":"2. Readings/Brain Dump/2022/- 2022 Summary.md"},
-		{"id":"32c9478d2118cf68","x":2977,"y":-490,"width":333,"height":310,"type":"file","file":"2. Readings/Brain Dump/2023/- 2023 Summary.md"}
+		{"type":"file","file":"1. Crypto/DAOs/- Intro/DAOs Homepage.md","id":"f2dc94fa6d2a41d9","x":-1815,"y":-280,"width":335,"height":306,"color":"1"},
+		{"type":"file","file":"1. Crypto/DAOs/Frameworks/DAO Structures.md","id":"1a1dd0f092e60a31","x":-2303,"y":360,"width":320,"height":306},
+		{"type":"file","file":"1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md","id":"3c1ee0ff49b299bd","x":-1815,"y":360,"width":335,"height":306},
+		{"type":"file","file":"1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md","id":"496de20b5fa62dc8","x":-1288,"y":360,"width":320,"height":306},
+		{"type":"text","text":"# Crypto Research\n## Getting Started","id":"645d29fc1f55f0d3","x":-1815,"y":-720,"width":335,"height":143,"color":"6"},
+		{"type":"file","file":"2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md","id":"230cb3566b292654","x":2655,"y":-958,"width":815,"height":310},
+		{"type":"file","file":"2. Readings/Brain Dump/2023/- 2023 Summary.md","id":"32c9478d2118cf68","x":3215,"y":-238,"width":510,"height":310},
+		{"type":"file","file":"2. Readings/Brain Dump/2022/- 2022 Summary.md","id":"b4f246c66f932f69","x":2400,"y":-238,"width":510,"height":310}
 	],
 	"edges":[
 		{"id":"7486f087008482fd","fromNode":"645d29fc1f55f0d3","fromSide":"right","toNode":"aca2eb1145b0db1d","toSide":"left"},
@@ -19,7 +22,11 @@
 		{"id":"f9174bb05500c49b","fromNode":"aca2eb1145b0db1d","fromSide":"right","toNode":"bd186f3a7e6e60d6","toSide":"left"},
 		{"id":"17d778baba0bcd4a","fromNode":"aca2eb1145b0db1d","fromSide":"right","toNode":"e81455f237135016","toSide":"left"},
 		{"id":"20365386ea61d50f","fromNode":"645d29fc1f55f0d3","fromSide":"right","toNode":"d535e46032816faf","toSide":"left"},
-		{"id":"ebf8821b4f342cff","fromNode":"230cb3566b292654","fromSide":"right","toNode":"b4f246c66f932f69","toSide":"left"},
-		{"id":"364f5fca3667e9ef","fromNode":"230cb3566b292654","fromSide":"right","toNode":"32c9478d2118cf68","toSide":"left"}
+		{"id":"83641356136eb0ea","fromNode":"645d29fc1f55f0d3","fromSide":"bottom","toNode":"f2dc94fa6d2a41d9","toSide":"top"},
+		{"id":"27ce9ebfe3289ff6","fromNode":"f2dc94fa6d2a41d9","fromSide":"bottom","toNode":"1a1dd0f092e60a31","toSide":"top"},
+		{"id":"6ea83a862d5a9817","fromNode":"f2dc94fa6d2a41d9","fromSide":"bottom","toNode":"3c1ee0ff49b299bd","toSide":"top"},
+		{"id":"b977efdea899e425","fromNode":"f2dc94fa6d2a41d9","fromSide":"bottom","toNode":"496de20b5fa62dc8","toSide":"top"},
+		{"id":"1b2019733ab0ea2c","fromNode":"230cb3566b292654","fromSide":"bottom","toNode":"b4f246c66f932f69","toSide":"top"},
+		{"id":"1ba8ea0fb1af93e0","fromNode":"230cb3566b292654","fromSide":"bottom","toNode":"32c9478d2118cf68","toSide":"top"}
 	]
 }
