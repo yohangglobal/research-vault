@@ -9,9 +9,9 @@
 
 For the past year or so, I have been using [Obsidian](https://obsidian.md/) as an ongoing compendium for my research, notes, and thoughts around the crypto industry. The majority of these notes have been private or published via our [Research Database](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09) and I wanted to present how to use a tool like Obsidian for other researchers.
 
-So far, this has made research and writing much easier for me and I think it can do the same for you. Get started on freeing up those crowded thoughts by forking this repository and adding your own content or use this Vault as a framework for your own personal research.
+So far, this has made research and writing much easier for me and I think it can do the same for you. Freeing up those crowded thoughts can be as easy as forking this repository and adding your own content. You can also start from scratch and use this Vault as a framework for your own personal research.
 
-The ReadMe is split into installation, current content within the vault, and how this content is presented publicly. For more information on how to write your own ReadMe, visit [Protocol ReadMe](https://github.com/yohangglobal/protocol-readme).
+The README is split into installation, current content within the vault, and how this content is presented publicly. For more information on how to write your own ReadMe, visit [Protocol ReadMe](https://github.com/yohangglobal/protocol-readme).
 
 Let's get started!
 
@@ -99,7 +99,7 @@ Visit [Setup](https://github.com/yohangglobal/research-vault/tree/main/0.%20Setu
 
 >This vault acts as a more informal brain dump of thoughts and summaries prior to creating public Notion pages that I share through [GG Capital](https://ggcapital.io/research).
 
-Feel free to keep up with our published findings in our [Research Database](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09).
+Feel free to keep up with our published findings in our [Research Database](https://ggcapital.notion.site/Research-b47b51d18e994fadaa17467f84a0cd09). We always invite teams and projects to suggest new sectors to look into so if you have a protocol you want to learn more about, leave a comment or message us on [Twitter](https://twitter.com/GGCapital_)
 
 This database is organized into the following:
 - [Protocols](https://ggcapital.notion.site/Protocols-124ee578be7649209a994d0f1bcad0f7): where we share our thoughts on networks, forks, and new projects.
@@ -111,14 +111,14 @@ This database is organized into the following:
 ## Writings
 [(Back to top)](#table-of-contents)
 
->For all articles & reports based on the notes here, visit our Substack at [GG Research](https://ggcapital.substack.com/)
+>For all articles and reports based on the notes here, visit our Substack at [GG Research](https://ggcapital.substack.com/).
 
 This blog is split into three different subsections:
 - [GG Research](https://ggcapital.substack.com/): our primary collection of research.
 - [Crypto Regulations](https://ggcapital.substack.com/s/crypto-regulations): policy insights and highlights from Capitol Hill.
 - [Rabbitholes](https://ggcapital.substack.com/s/rabbitholes): articles where I dive into new areas of crypto, mixed in with my thoughts on life.
 
-All of my writings and other musings can also be found linked on my [Twitter](https://twitter.com/yohangglobal).
+All of my threads and other musings can also be found on my [Twitter](https://twitter.com/yohangglobal).
 
 # Begin your Research Journey
 ![Vault Footer](vault-footer.jpg)
