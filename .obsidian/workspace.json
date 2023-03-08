@@ -11,8 +11,15 @@
             "id": "ff7af02fd494ec7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "0. Setup/Homepage.canvas",
+                "viewState": {
+                  "x": 711,
+                  "y": -347,
+                  "zoom": -3.015487125842313
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. Setup/Homepage.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. Setup/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. Setup/Homepage.canvas"
+              }
             }
           },
           {
@@ -153,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
     "vault-footer.jpg",
     "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
