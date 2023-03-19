@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/Projects to Test.md",
+                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/Projects to Test.md",
+                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/Projects to Test.md",
+                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/Projects to Test.md"
+                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md"
               }
             }
           },
@@ -162,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
     "Untitled.md",
-    "1. Crypto/Ecosystems/ZK Rollups/ZKSync/Projects to Test.md",
+    "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
     "3. Writings/Event Notes/Devcon - Safe's Introduction.md",
     "1. Crypto/Ecosystems/ZK Rollups/ZKSync",
     "0. Setup/Homepage.canvas",

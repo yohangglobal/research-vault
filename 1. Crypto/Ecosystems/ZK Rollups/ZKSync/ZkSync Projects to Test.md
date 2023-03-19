@@ -16,36 +16,58 @@ https://blog.matter-labs.io/baby-alpha-has-arrived-5b10798bc623?gi=63814e62f524
 
 ## Protocols I've Used
 
-here are some notes on what i've done so far, hopefully will result in yummy airdrops for @Farmer @Researcher 
-(@GuttaAlmighty#2868 @AhkDon#3380 peep and lmk what im missing)
+Here are some notes on what I've done so far, which should turn out to be a solid layout for how you can start testing ZkSync.
 
-Initial signup can just be going their wallet page and either using the twitter faucet or your alchemy account:
+### Setup
+
+Initial signup can just be going their wallet page and either using the Twitter faucet or your Alchemy account:
+
+Wallet account:
 https://wallet.zksync.io/account/
 Faucet:
 https://portal.zksync.io/faucet
 Block explorer:
 https://zksync2-testnet.zkscan.io/
 
-First I'd say just start on their ecosystem page and then work on down thru each category:
+First I'd say just start on their ecosystem page and then work on down thru each category depending on your interest:
 https://ecosystem.zksync.io/
 
-They explained current milestones recently here:
-https://blog.matter-labs.io/baby-alpha-has-arrived-5b10798bc623
+### Tevaera
 
-so far i've played a bit of teveara, bought karma and created some accounts. played the teva quest game and picked up some points. then went to mint their "guardian" nfts 
+I set up a few accounts on here and bought karma tokens. Simplest thing to do was playing the Teva Quest game and picking up points. 
+
+After that, go and mint "Guardian" NFTs. Repeat as needed:
 https://testnet.tevaera.com/dashboard/app
 
-used a few faucets to get other tokens for mute, swapped for eth/btc/dai/mute, added to a few liquidity pools, then staked mute/eth lp into their amplifier pool
+### Mute
+
+For Mute, I'd suggest simply using a few faucets to get other tokens for $mute. You can swap for eth/btc/dai/mute, add to a few liquidity pools, then stake a mute/eth LP into their Amplifier pool. Quotes are pretty ridiculous so it's a bit annoying trying to swap assets directly.
+
+This should be enough for now and you can continue testing each swap/pool when you need to.
+
+Site:
 https://testnet.switch.mute.io/
 
-went to mint square and made some offers (purchase doesnt work), then minted some random gif. will probably create a collection to see what that's like too
+### Mint Square
+
+After this, I went to mint square and made some offers (purchase didn't work at the time), then minted some random Gif.  You can create your own NFT collection to see what that's like too.
+
 Site:
 https://mintsquare.io/zksync-testnet
 
-have used zigzag in the past for their testnet but revisited to just make some random trades on mainnet (noticed they're on arbitrum nitro too)
+### ZigZag
+
+This is what everyone is most aware of, trading here can be your first step although you've already missed out on the airdrop for $ZZ.
+
+I've used it in the past for their testnet but revisited to make some random trades on mainnet (noticed they're on arbitrum nitro too).
+
+Mainnet:
 https://trade.zigzag.exchange/?market=ETH-USDC&network=zksync
 
-wanted to use trustless finance but their demo is down, just glanced at their docs and will see what the protocol actually looks like in practice (not really sure what their stablecoin will amount to in relation to governance)
+### Trustless Finance
+
+The demo for Trustless has been down for awhile, I glanced at their docs and will just have to stay updated on what happens to their stablecoin in relation to governance.
+
 Site:
 https://www.trustless.fi/
 Demo:
@@ -53,16 +75,25 @@ https://zksync.trustless.fi/
 Docs:
 https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9
 
-used mes protocol and their faucet to start up a trading account, made some more trades on their eth and usdt spot market, but they're on nitro and optimism goerli as well so want to see what the "cross-rollup mode" is like (site is shit tho)
+### Mes Protocol
+
+Started out with Mes their faucet to open up a trading account, made some more trades on their ETH and USDT spot market. They're on Arbitrum Nitro/Goerli and Optimism Goerli as well so you can check out the "Cross-Rollup Mode". Overall, site is a bit of a mess, still has a lot of bugs to work out.
+
 Site:
 https://app.mesprotocol.com/spot/ETH-USDC
 Faucet:
 https://faucet.mesprotocol.com/
 
-wanted to use syncswap but for some reason the zksync rpc doesnt work or there were some connection issues? i remember this happening awhile back too, so not sure but ignored for now and i'll just revisit another time
+### SyncSwap
+
+I wanted to use SyncSwap but for some reason the ZkSync RPC doesn't work unless there are still connection issues. This happened each time I used the project, you can put a pause in this and revisit if needed.
+
+Site:
 https://syncswap.xyz/
 
-also noticed spacefi, thought it was interesting they're connected to evmos but its supposed to be an all-in-one type of platform for connecting cosmos to l2 chains
-https://app.spacefi.io/#/home
+### SpaceFi
 
-main questions i have for now are what's different for zksync (from a user perspective) compared to other rollups, esp if same protocols will be launching there with few alternatives.
+Finally, there's SpaceFi, an all-in-one type platform for connecting Cosmos to L2 chains. Mostly found this interesting due to their connection to Evmos, site is not as visually appealing but you can try out a few transactions to see how this might work in practice.
+
+Site:
+https://app.spacefi.io/#/home
