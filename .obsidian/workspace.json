@@ -11,11 +11,14 @@
             "id": "ff7af02fd494ec7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
-                "mode": "source",
-                "source": false
+                "file": "0. Setup/Homepage.canvas",
+                "viewState": {
+                  "x": 635.0035746055164,
+                  "y": -713.8018473283606,
+                  "zoom": -2.792336647740356
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "0. Setup/Homepage.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "0. Setup/Homepage.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md"
+                "file": "0. Setup/Homepage.canvas"
               }
             }
           },
@@ -163,8 +166,9 @@
   },
   "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
-    "5. Attachments/Pasted image 20220822213141.png.md",
+    "0. Setup/Obsidian-Github Connection.md",
     "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+    "5. Attachments/Pasted image 20220822213141.png.md",
     "Pasted.md",
     "README.md",
     "5. Attachments/Pasted image 20230319213832.png",
@@ -197,7 +201,6 @@
     "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
     "1. Crypto/MEV/- Intro/MEV for Beginners.md",
     "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
-    "0. Setup/Obsidian-Github Connection.md",
     "Blockchain Concepts/README.md"
   ]
 }
