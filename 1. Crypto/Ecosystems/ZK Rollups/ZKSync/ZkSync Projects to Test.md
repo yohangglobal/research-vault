@@ -3,12 +3,14 @@
 
 ## Initial Protocols
 
-For zksync there's a good amount of new protocols to try out, most evident has been zigzag and mute. There's still high chance for airdrops so easiest process is to set up wallets and start trading.
-[https://twitter.com/nagatodharma/status/1620488859057520644?s=46&t=n_YO_Es6JfoTsw8kyUSkvQ](https://twitter.com/nagatodharma/status/1620488859057520644?s=46&t=n_YO_Es6JfoTsw8kyUSkvQ "https://twitter.com/nagatodharma/status/1620488859057520644?s=46&t=n_YO_Es6JfoTsw8kyUSkvQ") • $ZZ | [https://info.zigzag.exchange/](https://info.zigzag.exchange/ "https://info.zigzag.exchange/") • $MUTE | [https://testnet.switch.mute.io/](https://testnet.switch.mute.io/ "https://testnet.switch.mute.io/") • SyncSwap | [https://syncswap.xyz/](https://syncswap.xyz/ "https://syncswap.xyz/") • Trustless | [https://trustless.fi/](https://trustless.fi/ "https://trustless.fi/") • Sat | [https://satis.foundation/](https://satis.foundation/ "https://satis.foundation/") • MS | [https://mintsquare.io/zksync-testnet](https://mintsquare.io/zksync-testnet "https://mintsquare.io/zksync-testnet") • @SpaceFi_io - [http://app.spacefi.io/](http://app.spacefi.io/ "http://app.spacefi.io/") • @MESprotocol: CEX trading experience on-chain - [http://app.mesprotocol.com/](http://app.mesprotocol.com/ "http://app.mesprotocol.com/") Faucet: [https://faucet.mesprotocol.com/](https://faucet.mesprotocol.com/ "https://faucet.mesprotocol.com/") @OnchainTrade - [http://onchain.trade/](http://onchain.trade/ "http://onchain.trade/") There's also a few nft projects/marketplaces to use, one example is Mint Square. You can buy/sell/bid on nfts and mint your own [https://mintsquare.io/mint](https://mintsquare.io/mint "https://mintsquare.io/mint") or create a collection here: [https://launchpad.mintsquare.io/](https://launchpad.mintsquare.io/ "https://launchpad.mintsquare.io/")
+For zksync there's a good amount of new protocols to try out, most widely talked about have been ZigZag and Mute. There's still high chance for airdrops so easiest process is to set up wallets and start trading.
+
+Once you're ready, visit the [Ecosystem Page](https://ecosystem.zksync.io/) and start searching for all "live" protocols.
+![[Pasted image 20230319213832.png]]
 
 ## Onboarding Alpha
 
-Can also refer to the onboarding alpha breakdown they provided. This displays their roadmap and overall outlook for each stage of ZkSync:
+When first starting out, you can refer to the onboarding alpha breakdown they provided. This displays their roadmap and overall outlook for each stage of ZkSync:
 https://twitter.com/zksync/status/1620485295383908353?s=20 
 
 Full article: 
@@ -17,6 +19,8 @@ https://blog.matter-labs.io/baby-alpha-has-arrived-5b10798bc623?gi=63814e62f524
 ## Protocols I've Used
 
 Here are some notes on what I've done so far, which should turn out to be a solid layout for how you can start testing ZkSync.
+
+Overall setup is up to you but keep in mind you still have to fund a lot of accounts via the faucet in order to test each protocol.
 
 ### Setup
 
