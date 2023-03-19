@@ -11,9 +11,9 @@
 		{"type":"file","file":"1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md","id":"3c1ee0ff49b299bd","x":-1815,"y":360,"width":335,"height":306},
 		{"type":"file","file":"1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md","id":"496de20b5fa62dc8","x":-1288,"y":360,"width":320,"height":306},
 		{"type":"text","text":"# Crypto Research\n## Getting Started","id":"645d29fc1f55f0d3","x":-1815,"y":-720,"width":335,"height":143,"color":"6"},
-		{"type":"file","file":"2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md","id":"230cb3566b292654","x":2655,"y":-958,"width":815,"height":310},
-		{"type":"file","file":"2. Readings/Brain Dump/2023/- 2023 Summary.md","id":"32c9478d2118cf68","x":3215,"y":-238,"width":510,"height":310},
-		{"type":"file","file":"2. Readings/Brain Dump/2022/- 2022 Summary.md","id":"b4f246c66f932f69","x":2400,"y":-238,"width":510,"height":310}
+		{"type":"file","file":"2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md","id":"230cb3566b292654","x":2655,"y":-960,"width":760,"height":310},
+		{"type":"file","file":"2. Readings/Brain Dump/2022/- 2022 Summary.md","id":"b4f246c66f932f69","x":2400,"y":-238,"width":510,"height":310},
+		{"type":"file","file":"2. Readings/Brain Dump/2023/- 2023 Summary.md","id":"32c9478d2118cf68","x":3160,"y":-238,"width":510,"height":310}
 	],
 	"edges":[
 		{"id":"7486f087008482fd","fromNode":"645d29fc1f55f0d3","fromSide":"right","toNode":"aca2eb1145b0db1d","toSide":"left"},

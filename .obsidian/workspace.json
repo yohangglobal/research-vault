@@ -11,14 +11,11 @@
             "id": "ff7af02fd494ec7c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
-                "viewState": {
-                  "x": 711,
-                  "y": -347,
-                  "zoom": -3.015487125842313
-                }
+                "file": "3. Writings/Event Notes/Devcon - Safe's Introduction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
+                "file": "3. Writings/Event Notes/Devcon - Safe's Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
+                "file": "3. Writings/Event Notes/Devcon - Safe's Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Setup/Homepage.canvas"
+                "file": "3. Writings/Event Notes/Devcon - Safe's Introduction.md"
               }
             }
           },
@@ -166,9 +163,9 @@
   },
   "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
+    "0. Setup/Homepage.canvas",
     "vault-footer.jpg",
     "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
-    "0. Setup/Homepage.canvas",
     "vault-header.jpg",
     "README.md",
     "2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md",
