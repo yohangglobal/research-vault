@@ -10,7 +10,9 @@ Once you're ready, visit the [Ecosystem Page](https://ecosystem.zksync.io/) and 
 
 ## Onboarding Alpha
 
-When first starting out, you can refer to the onboarding alpha breakdown they provided. This displays their roadmap and overall outlook for each stage of ZkSync:
+When first starting out, you can refer to the onboarding alpha breakdown they provided. 
+
+This displays their roadmap and overall outlook for each stage of ZkSync:
 https://twitter.com/zksync/status/1620485295383908353?s=20 
 
 Full article: 
@@ -28,8 +30,10 @@ Initial signup can just be going their wallet page and either using the Twitter 
 
 Wallet account:
 https://wallet.zksync.io/account/
+
 Faucet:
 https://portal.zksync.io/faucet
+
 Block explorer:
 https://zksync2-testnet.zkscan.io/
 
@@ -40,7 +44,9 @@ https://ecosystem.zksync.io/
 
 I set up a few accounts on here and bought karma tokens. Simplest thing to do was playing the Teva Quest game and picking up points. 
 
-After that, go and mint "Guardian" NFTs. Repeat as needed:
+After that, go and mint "Guardian" NFTs. 
+
+Repeat as needed:
 https://testnet.tevaera.com/dashboard/app
 
 ### Mute
@@ -74,8 +80,10 @@ The demo for Trustless has been down for awhile, I glanced at their docs and wil
 
 Site:
 https://www.trustless.fi/
+
 Demo:
 https://zksync.trustless.fi/
+
 Docs:
 https://trustlessfi.notion.site/Trustless-4be753d947b040a89a46998eca90b2c9
 
@@ -85,6 +93,7 @@ Started out with Mes their faucet to open up a trading account, made some more t
 
 Site:
 https://app.mesprotocol.com/spot/ETH-USDC
+
 Faucet:
 https://faucet.mesprotocol.com/
 
