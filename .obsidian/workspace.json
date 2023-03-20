@@ -11,14 +11,11 @@
             "id": "ff7af02fd494ec7c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
-                "viewState": {
-                  "x": 635.0035746055164,
-                  "y": -713.8018473283606,
-                  "zoom": -2.792336647740356
-                }
+                "file": "2. Readings/New Articles/- Intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
+                "file": "2. Readings/New Articles/- Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Setup/Homepage.canvas",
+                "file": "2. Readings/New Articles/- Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Setup/Homepage.canvas"
+                "file": "2. Readings/New Articles/- Intro.md"
               }
             }
           },
@@ -166,6 +163,22 @@
   },
   "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
+    "1. Crypto/MEV/- Intro/MEV for Beginners.md",
+    "1. Crypto/MEV/Resources/Exploits.md",
+    "1. Crypto/Infra/Nodes & RPCs/LlamaNodes.md",
+    "1. Crypto/Infra/Gnosis Safe/Wallet Management.md",
+    "1. Crypto/Infra/Gnosis Safe/Safe Apps.md",
+    "1. Crypto/DeFi/Yield Farming/Stablecoin Farming.md",
+    "1. Crypto/DeFi/Yield Farming/Borrowing against assets.md",
+    "1. Crypto/DeFi/SushiSwap (SUSHI)/Tokenomics Proposal.md",
+    "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
+    "1. Crypto/DeFi/Curve (CRV)/CRV Wars.md",
+    "1. Crypto/DeFi/AMMs/AMM Research.md",
+    "1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md",
+    "1. Crypto/DAOs/Treasuries/Protocol Treasury Structures.md",
+    "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
+    "1. Crypto/DAOs/Frameworks/DAO Structures.md",
+    "0. Setup/Homepage.canvas",
     "0. Setup/Obsidian-Github Connection.md",
     "1. Crypto/Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
     "5. Attachments/Pasted image 20220822213141.png.md",
@@ -175,32 +188,17 @@
     "Untitled.md",
     "3. Writings/Event Notes/Devcon - Safe's Introduction.md",
     "1. Crypto/Ecosystems/ZK Rollups/ZKSync",
-    "0. Setup/Homepage.canvas",
     "vault-footer.jpg",
     "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
     "vault-header.jpg",
     "2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md",
-    "1. Crypto/DAOs/Treasuries/Protocol Treasury Structures.md",
-    "1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md",
     "2. Readings/Brain Dump/2023/- 2023 Summary.md",
     "2. Readings/Brain Dump/2022/- 2022 Summary.md",
-    "1. Crypto/DAOs/- Intro/DAOs Homepage.md",
-    "2. Readings/Brain Dump/2022/08-2022/8-21-2022 - Protocol Testing.md",
-    "2. Readings/Brain Dump/2022/09-2022/9-05-2022 - DeFi and Readings.md",
     "2. Readings/Brain Dump/2023",
     "2. Readings/Brain Dump/2022",
     "2. Readings/Brain Dump/2022/09-2022",
     "2. Readings/Brain Dump/2022/08-2022",
     "2. Readings/Brain Dump/2023/01-2023",
-    "2. Readings/Brain Dump/- Intro",
-    "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
-    "1. Crypto/Beginner Guides/- Intro/First Steps into Crypto.md",
-    "1. Crypto/Beginner Guides/Guides/Trading Crypto.md",
-    "2. Readings/9.md",
-    "3. Writings/Articles/GG Substack/Who Moved my Treasury.md",
-    "1. Crypto/Beginner Guides/- Intro/Crypto FAQ.md",
-    "1. Crypto/MEV/- Intro/MEV for Beginners.md",
-    "1. Crypto/MEV/Resources/Flashbots - MEV Inspect.md",
-    "Blockchain Concepts/README.md"
+    "2. Readings/Brain Dump/- Intro"
   ]
 }

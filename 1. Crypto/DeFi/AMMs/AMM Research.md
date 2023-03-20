@@ -103,10 +103,10 @@
 
 [](https://medium.com/@defidecrypted/complete-defi-guide-to-sushiswap-224507fff7a1)[https://medium.com/@defidecrypted/complete-defi-guide-to-sushiswap-224507fff7a1](https://medium.com/@defidecrypted/complete-defi-guide-to-sushiswap-224507fff7a1)
 
-## future of onchain trading
+## Future of onchain trading
 https://insights.deribit.com/market-research/the-future-of-on-chain-trading/
 -   **CLOBs** are the most dominant form of order books historically. Every centralized exchange entity, whether it’s in traditional finance or in crypto, uses a CLOB. At a glance, a central limit order book allows a user to place (for simplicity’s sake) 2 unique types of orders: limit orders and market orders.
 -   **AMMs** are the newest type of orderbook as they’re increasingly used in decentralized trading. Unlike CLOBs, AMMs are constantly streaming a quote of prices to users and only exist (again for simplicity’s sake) with 1 type of order: market orders.
 
-### thread by emperor on convex optimization
+### Thread by emperor on convex optimization
 https://twitter.com/0x_emperor/status/1516753295024726019?s=20&t=4h5Lx2TJbZmzt-pA4zl7Sw
