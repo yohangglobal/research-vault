@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md"
+                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md"
               }
             }
           },
@@ -163,6 +163,12 @@
   },
   "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Aztec/Aztec Network Background.md",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/- Intro/ZK Summary.md",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Aztec",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/- Intro",
     "2. Readings/New Articles/- Intro.md",
     "1. Crypto/MEV/- Intro/MEV for Beginners.md",
     "1. Crypto/MEV/Resources/Exploits.md",
@@ -181,7 +187,6 @@
     "1. Crypto/DAOs/Frameworks/DAO Structures.md",
     "0. Setup/Homepage.canvas",
     "0. Setup/Obsidian-Github Connection.md",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
     "5. Attachments/Pasted image 20220822213141.png.md",
     "Pasted.md",
     "README.md",
@@ -190,10 +195,7 @@
     "3. Writings/Event Notes/Devcon - Safe's Introduction.md",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync",
     "vault-footer.jpg",
-    "1. Crypto/Security/ImmuneFi/Web3 Library/1. Main page.md",
     "vault-header.jpg",
-    "2. Readings/Brain Dump/- Intro/Brain Dump Homepage.md",
-    "2. Readings/Brain Dump/2023/- 2023 Summary.md",
     "2. Readings/Brain Dump/2023",
     "2. Readings/Brain Dump/2022",
     "2. Readings/Brain Dump/2022/09-2022",
