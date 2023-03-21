@@ -18,6 +18,21 @@ https://twitter.com/zksync/status/1620485295383908353?s=20
 Full article: 
 https://blog.matter-labs.io/baby-alpha-has-arrived-5b10798bc623?gi=63814e62f524
 
+### Versions of ZkSync
+
+As explained in the above blog, ZkSync operates in various phases and is currently in both ZkSync 1.0 and 2.0. The version 1.0 has been dubbed "Lite", while 2.0 is referenced as ZkSync Era. 1.0 is fully available to the general public and is where users will bridge to gain access.
+
+ZkSync Era is only open to registered projects and will be opened up to end user when the team is ready.
+
+### Bridging
+
+To gain access to ZkSync, users will be able to bridge to Lite through either:
+1. Zk Portal:  [https://wallet.zksync.io/account](https://wallet.zksync.io/account "https://wallet.zksync.io/account")
+2. ZigZag Bridge: https://trade.zigzag.exchange/bridge
+3. Orbiter Finance: https://www.orbiter.finance/
+
+Each platform has their own benefits/use cases, Orbiter finance would the easiest method for new users as it is most similar to current bridge infrastructure.
+
 ## Protocols I've Used
 
 Here are some notes on what I've done so far, which should turn out to be a solid layout for how you can start testing ZkSync.
