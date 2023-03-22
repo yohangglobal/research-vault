@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md"
+              }
             }
           },
           {
@@ -157,10 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "ff7af02fd494ec7c",
   "lastOpenFiles": [
-    "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+    "4. Programming/SQL/Learning SQL.md",
+    "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
     "Untitled.md",
     "4. Programming/SQL/Dune Analytics",
     "4. Programming/SQL/Resources",
@@ -190,7 +195,6 @@
     "0. Setup/Obsidian-Github Connection.md",
     "5. Attachments/Pasted image 20220822213141.png.md",
     "Pasted.md",
-    "README.md",
     "5. Attachments/Pasted image 20230319213832.png",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync",
     "vault-footer.jpg",
