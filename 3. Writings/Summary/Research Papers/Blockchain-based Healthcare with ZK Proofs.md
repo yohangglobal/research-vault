@@ -1,6 +1,6 @@
 ---
 date_created: 2023-03-06
-tags: research,
+tags: research, zkproofs
 category: research papers
 topics: data storage
 ---

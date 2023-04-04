@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#zk",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
+                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md"
+                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md"
               }
             }
           },
@@ -175,15 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f78188ccdfaa6f0",
+  "active": "2f3906c1a4afb06f",
   "lastOpenFiles": [
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/- Intro/ZK Summary.md",
-    "3. Writings/Podcasts/Hasu & Starkware.md",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/Aztec/Aztec Network Background.md",
+    "3. Writings/Podcasts/Hasu & Starkware.md",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/- Intro/ZK Summary.md",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
+    "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
     "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
     "4. Programming/SQL/Learning SQL.md",
     "Untitled.md",
     "4. Programming/SQL/Dune Analytics",
