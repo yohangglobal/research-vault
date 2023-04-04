@@ -1,5 +1,5 @@
 # Starkware
-#podcasts #zkrollups
+#podcasts #zkproofs
 
 https://www.youtube.com/watch?v=-6BtBUbiUIU
 STARKs are a technology that allows huge amounts of computation to be compressed into succinct proofs that anyone can easily verify.

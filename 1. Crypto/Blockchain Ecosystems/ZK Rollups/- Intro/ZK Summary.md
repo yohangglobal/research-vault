@@ -1,5 +1,5 @@
 # What are Zero Knowledge Proofs?
-#research #zkrollups 
+#research #zkproofs
 
 # Summary
 > How do ZK-Rollups work?

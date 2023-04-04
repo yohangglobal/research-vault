@@ -1,5 +1,5 @@
 # ZkSync Testnet
-#testnet #zkrollups 
+#testnet #zkproofs
 
 ## Initial Protocols
 

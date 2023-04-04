@@ -1,5 +1,5 @@
 # Optimistic rollups & ZK Proofs
-#defi #podcasts #zkrollups 
+#defi #podcasts #zkproofs 
 
 ## Zero Knowledge podcast
 https://podcasts.apple.com/us/podcast/zero-knowledge/id1326503043?i=1000547673829
