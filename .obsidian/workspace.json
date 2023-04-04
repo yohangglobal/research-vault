@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff575783ca6b0a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md"
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Untitled.md"
               }
             }
           },
@@ -174,14 +187,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "57110bf15996cbd4",
   "lastOpenFiles": [
+    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Untitled.md",
+    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
+    "1. Crypto/Blockchain Ecosystems/Ethereum (ETH)",
+    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/Aztec/Aztec Network Background.md",
     "3. Writings/Podcasts/Hasu & Starkware.md",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/- Intro/ZK Summary.md",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
-    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
     "4. Programming/SQL/Learning SQL.md",
     "Untitled.md",
@@ -207,14 +224,10 @@
     "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
     "1. Crypto/DAOs/Frameworks/DAO Structures.md",
     "0. Setup/Homepage.canvas",
-    "0. Setup/Obsidian-Github Connection.md",
     "5. Attachments/Pasted image 20230319213832.png",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync",
     "vault-footer.jpg",
     "vault-header.jpg",
-    "2. Readings/Brain Dump/2023",
-    "2. Readings/Brain Dump/2022",
-    "2. Readings/Brain Dump/2022/09-2022",
-    "2. Readings/Brain Dump/2022/08-2022"
+    "2. Readings/Brain Dump/2023"
   ]
 }
