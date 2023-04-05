@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
+                "file": "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
+                "file": "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md"
+                "file": "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md"
               }
             }
           },
@@ -187,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff575783ca6b0a49",
+  "active": "2f3906c1a4afb06f",
   "lastOpenFiles": [
     "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
