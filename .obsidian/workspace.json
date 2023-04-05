@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "096b704a9488cefb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "tag:#ethereum",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md"
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md"
               }
             }
           },
@@ -198,12 +186,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "096b704a9488cefb",
+  "active": "ff575783ca6b0a49",
   "lastOpenFiles": [
     "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
-    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
     "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
+    "README.md",
+    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
     "1. Crypto/Blockchain Ecosystems/Ethereum (ETH)",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)",
@@ -233,7 +222,6 @@
     "1. Crypto/DeFi/AMMs/AMM Research.md",
     "1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md",
     "1. Crypto/DAOs/Treasuries/Protocol Treasury Structures.md",
-    "1. Crypto/DAOs/Treasuries/DAO Treasury Examples.md",
     "0. Setup/Homepage.canvas",
     "5. Attachments/Pasted image 20230319213832.png",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync",

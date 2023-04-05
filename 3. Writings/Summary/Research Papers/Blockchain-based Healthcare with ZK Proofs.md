@@ -1,7 +1,8 @@
 ---
 date_created: 2023-03-06
 tags: research, zkproofs
-category: research papers
+category: Writings
+subcategory: Research Summary
 topics: data storage
 ---
 # Summarizing how healthcare data can improve with ZK Proofs and Re-encryption

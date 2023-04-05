@@ -1,5 +1,13 @@
+---
+date_created: 2023-03-22
+tags: dataanalysis, guide, ethereum
+category: Programming
+subcategory: SQL
+topics: blockchain data analysis
+---
+
 # Learn ETH Concepts with SQL
-#dataanalysis #guide 
+#dataanalysis #guide #ethereum
 
 Source:
 https://ethereum.org/en/developers/tutorials/learn-foundational-ethereum-topics-with-sql/

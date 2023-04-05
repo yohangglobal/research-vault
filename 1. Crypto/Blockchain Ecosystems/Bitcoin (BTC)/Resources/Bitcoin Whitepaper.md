@@ -1,8 +1,9 @@
 ---
 date_created: 2023-03-26
 tags: guide, bitcoin, readings
-category: research papers
-topics: bitcoin
+category: Crypto
+subcategory: Blockchain Ecosystems
+topics: bitcoin resources
 ---
 # Reading the Bitcoin Whitepaper
 #guide #bitcoin #readings
