@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c31c3d10e66781cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md"
+                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md"
               }
             }
           },
@@ -199,10 +187,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c31c3d10e66781cc",
+  "active": "ff575783ca6b0a49",
   "lastOpenFiles": [
-    "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
     "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
+    "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
     "2. Readings/Brain Dump/2023/04-2023",
     "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
