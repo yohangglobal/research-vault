@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c31c3d10e66781cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
+                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
+                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md"
+                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md"
               }
             }
           },
@@ -186,11 +198,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff575783ca6b0a49",
+  "active": "c31c3d10e66781cc",
   "lastOpenFiles": [
+    "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
+    "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
+    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
+    "2. Readings/Brain Dump/2023/04-2023",
     "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
     "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
-    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
     "README.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
@@ -220,13 +235,10 @@
     "1. Crypto/DeFi/SushiSwap (SUSHI)/Sushi Background.md",
     "1. Crypto/DeFi/Curve (CRV)/CRV Wars.md",
     "1. Crypto/DeFi/AMMs/AMM Research.md",
-    "1. Crypto/DAOs/Treasuries/Treasury Management in DeFi.md",
-    "1. Crypto/DAOs/Treasuries/Protocol Treasury Structures.md",
     "0. Setup/Homepage.canvas",
     "5. Attachments/Pasted image 20230319213832.png",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync",
     "vault-footer.jpg",
-    "vault-header.jpg",
-    "2. Readings/Brain Dump/2023"
+    "vault-header.jpg"
   ]
 }
