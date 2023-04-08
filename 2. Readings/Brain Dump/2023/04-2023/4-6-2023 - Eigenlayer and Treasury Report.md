@@ -1,4 +1,4 @@
-# Learnings for Today
+# Today's Updates
 #readings #resources 
 
 Nice background info from signum capital on investing into data sovereign protocols and how social media platforms will affect monetization 

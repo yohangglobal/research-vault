@@ -1,4 +1,4 @@
-# Learnings for Today
+# Today's Updates
 #readings #resources 
 
 Benefits of Optimistic vs ZK Rollups
