@@ -1,3 +1,11 @@
+---
+date_created: 2023-04-06
+tags: readings, resources
+category: Readings
+subcategory: Brain Dump
+topics: layer 2, eth, policy, avax 
+---
+
 # Today's Updates
 #readings #resources 
 
