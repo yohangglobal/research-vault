@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md"
+                "file": "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md"
               }
             }
           },
@@ -174,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f78188ccdfaa6f0",
+  "active": "ff575783ca6b0a49",
   "lastOpenFiles": [
+    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "2. Readings/Brain Dump/2023/04-2023/4-6-2023.md",
     "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
     "2. Readings/Brain Dump/2023/- 2023 Summary.md",
@@ -185,7 +187,6 @@
     "1. Crypto/Users/Shual/Shual's Crypto Tools.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
-    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
     "2. Readings/Brain Dump/2023/04-2023",
     "README.md",
