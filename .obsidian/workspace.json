@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff575783ca6b0a49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c90beb06f364f45e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum/Arbitrum DAO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum/Arbitrum DAO.md",
+                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum/Arbitrum DAO.md",
+                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum/Arbitrum DAO.md"
+                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md"
               }
             }
           },
@@ -185,22 +160,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c90beb06f364f45e",
+  "active": "8f78188ccdfaa6f0",
   "lastOpenFiles": [
-    "Pasted image 20230409141156.png",
-    "Pasted image 20230409141105.png",
-    "Pasted image 20230409141053.png",
-    "Pasted image 20230409141031.png",
+    "2. Readings/Brain Dump/2023/04-2023/2023-04-06 Eigenlayer and Treasury Report.md",
+    "2. Readings/Brain Dump/2023/04-2023/2023-04-07.md",
+    "2. Readings/Brain Dump/2023/04-2023/2023-04-06 - Eigenlayer and Treasury Report.md",
+    "2. Readings/Brain Dump/2023/01-2023/2023-01-25 - Rollup Comparisons and Delay Attacks.md",
+    "5. Attachments/Pasted image 20230409141156.png",
+    "5. Attachments/Pasted image 20230409141105.png",
+    "5. Attachments/Pasted image 20230409141053.png",
+    "5. Attachments/Pasted image 20230409141031.png",
     "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
+    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum/Arbitrum DAO.md",
     "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum",
     "2. Readings/New Reports/- Intro.md",
-    "2. Readings/Brain Dump/2023/04-2023/2023-04-06 - Eigenlayer and Treasury Report.md",
     "2. Readings/Brain Dump/2023/04-2023/4-6-2023 - Eigenlayer and Treasury Report.md",
-    "2. Readings/Brain Dump/2023/04-2023/2023-04-07.md",
-    "2. Readings/Brain Dump/2023/04-2023/2023-04-07.md",
     "2023-04-08.md",
-    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "2. Readings/Brain Dump/2023/- 2023 Summary.md",
     "1. Crypto/Users/Stun/Research Papers.md",
     "1. Crypto/Users/Stun/Research Method.md",

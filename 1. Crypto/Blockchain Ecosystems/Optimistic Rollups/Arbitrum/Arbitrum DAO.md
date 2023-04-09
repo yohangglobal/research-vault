@@ -14,6 +14,9 @@ topics: optimistic rollups, arbitrum, governance
 Docs are built using Docusaurus:
 https://github.com/ArbitrumFoundation/docs
 
+Governance repo is here:
+https://github.com/ArbitrumFoundation/governance
+
 This summarizes the background of the DAO and Arbitrum chains:
 ![[Pasted image 20230409141031.png]]
 

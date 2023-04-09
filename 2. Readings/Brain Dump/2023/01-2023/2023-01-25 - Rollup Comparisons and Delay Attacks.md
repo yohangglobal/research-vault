@@ -1,3 +1,10 @@
+---
+date_created: 2023-01-25
+tags: readings, resources
+category: Readings
+subcategory: Brain Dump
+topics: optimistic rollups, bitcoin, defi 
+---
 # Today's Updates
 #readings #resources 
 
