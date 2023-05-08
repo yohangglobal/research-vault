@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md"
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md"
               }
             }
           },
@@ -170,6 +170,9 @@
   },
   "active": "8f78188ccdfaa6f0",
   "lastOpenFiles": [
+    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
+    "2. Readings/Brain Dump/2023/05-2023",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-06 Eigenlayer and Treasury Report.md",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-07.md",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-06 - Eigenlayer and Treasury Report.md",
@@ -179,7 +182,6 @@
     "5. Attachments/Pasted image 20230409141053.png",
     "5. Attachments/Pasted image 20230409141031.png",
     "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
-    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum/Arbitrum DAO.md",
     "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum",
     "2. Readings/New Reports/- Intro.md",
@@ -204,12 +206,10 @@
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
     "4. Programming/SQL/Learning SQL.md",
-    "Untitled.md",
     "4. Programming/SQL/Dune Analytics",
     "4. Programming/SQL/Resources",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru",
     "1. Crypto/Blockchain Ecosystems/ZK Rollups/Aztec",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/- Intro",
     "0. Setup/Homepage.canvas",
     "5. Attachments/Pasted image 20230319213832.png",
     "vault-footer.jpg",
