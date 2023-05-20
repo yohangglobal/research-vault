@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md"
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md"
               }
             }
           },
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,15 +170,16 @@
   },
   "active": "8f78188ccdfaa6f0",
   "lastOpenFiles": [
-    "3. Writings/Posts/- Tweet Log.md",
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
     "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
+    "3. Writings/Posts/- Tweet Log.md",
     "3. Writings/Posts/Threads/UI.UX Issues.md",
     "3. Writings/Posts/Threads/SOL loans.md",
     "3. Writings/Posts/Threads/Profit-taking (yandre).md",
     "3. Writings/Posts/Threads/Maximizing profits in defi.md",
     "3. Writings/Posts/Threads/Lack of Security.md",
     "3. Writings/Posts/Threads/DeFi insights (cbee).md",
-    "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
     "3. Writings/Posts/LinkedIn",
     "3. Writings/Posts/Threads",
     "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
@@ -204,7 +204,6 @@
     "1. Crypto/Users/Stun/Portfolio.md",
     "1. Crypto/Users/Shual/Shual's Crypto Tools.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
-    "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
     "2. Readings/Brain Dump/2023/04-2023",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
     "1. Crypto/Blockchain Ecosystems/Ethereum (ETH)",
