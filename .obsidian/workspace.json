@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
+                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
+                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
+                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md"
+                "file": "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md"
               }
             }
           },
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +171,18 @@
   },
   "active": "8f78188ccdfaa6f0",
   "lastOpenFiles": [
-    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
+    "3. Writings/Posts/- Tweet Log.md",
+    "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
+    "3. Writings/Posts/Threads/UI.UX Issues.md",
+    "3. Writings/Posts/Threads/SOL loans.md",
+    "3. Writings/Posts/Threads/Profit-taking (yandre).md",
+    "3. Writings/Posts/Threads/Maximizing profits in defi.md",
+    "3. Writings/Posts/Threads/Lack of Security.md",
+    "3. Writings/Posts/Threads/DeFi insights (cbee).md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
+    "3. Writings/Posts/LinkedIn",
+    "3. Writings/Posts/Threads",
+    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "2. Readings/Brain Dump/2023/05-2023",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-06 Eigenlayer and Treasury Report.md",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-07.md",
@@ -194,22 +205,12 @@
     "1. Crypto/Users/Shual/Shual's Crypto Tools.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/How does Bitcoin Work.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources/Bitcoin Whitepaper.md",
-    "4. Programming/SQL/Resources/Ethereum SQL Walkthrough.md",
     "2. Readings/Brain Dump/2023/04-2023",
-    "README.md",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
     "1. Crypto/Blockchain Ecosystems/Ethereum (ETH)",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Aztec/Aztec Network Background.md",
-    "3. Writings/Podcasts/Hasu & Starkware.md",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/- Intro/ZK Summary.md",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru/Zkopru Protocol.md",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/ZKSync/ZkSync Projects to Test.md",
-    "4. Programming/SQL/Learning SQL.md",
     "4. Programming/SQL/Dune Analytics",
     "4. Programming/SQL/Resources",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Zkopru",
-    "1. Crypto/Blockchain Ecosystems/ZK Rollups/Aztec",
     "0. Setup/Homepage.canvas",
     "5. Attachments/Pasted image 20230319213832.png",
     "vault-footer.jpg",
