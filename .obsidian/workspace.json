@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
+                "file": "4. Programming/Blockchain Dev/Ape Framework/Kofi's ApeWorx Starter Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b7baccb2fff7de0a",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
+                "file": "4. Programming/Blockchain Dev/Ape Framework/Kofi's ApeWorx Starter Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
+                "file": "4. Programming/Blockchain Dev/Ape Framework/Kofi's ApeWorx Starter Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md"
+                "file": "4. Programming/Blockchain Dev/Ape Framework/Kofi's ApeWorx Starter Guide.md"
               }
             }
           },
@@ -172,9 +171,16 @@
   },
   "active": "8f78188ccdfaa6f0",
   "lastOpenFiles": [
+    "4. Programming/Trading/Arbitrage/Rage Bot.md",
+    "4. Programming/Blockchain Dev/Ape Framework/Kofi's ApeWorx Starter Guide.md",
+    "4. Programming/Blockchain Dev/Ape Framework/Getting Started with Ape.md",
+    "4. Programming/Blockchain Dev/Ape Framework/Create an ERC-20 Token.md",
+    "4. Programming/Blockchain Dev/Ape Framework",
+    "4. Programming/Trading/Arbitrage/Jupiter Bot.md",
+    "4. Programming/Trading/Arbitrage/Flashbots - Arbitrage.md",
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
+    "4. Programming/Community Resources/Officer CIA/DeFi Dev Roadmap.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-08.md",
-    "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
-    "2. Readings/Brain Dump/2023/05-2023/2023-05-20.md",
     "3. Writings/Posts/LinkedIn/Texas Reserves Mandate.md",
     "3. Writings/Posts/- Tweet Log.md",
     "3. Writings/Posts/Threads/UI.UX Issues.md",
@@ -200,18 +206,11 @@
     "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum",
     "2. Readings/New Reports/- Intro.md",
     "2. Readings/Brain Dump/2023/04-2023/4-6-2023 - Eigenlayer and Treasury Report.md",
-    "2023-04-08.md",
-    "2. Readings/Brain Dump/2023/- 2023 Summary.md",
-    "1. Crypto/Users/Stun/Research Papers.md",
-    "1. Crypto/Users/Stun/Research Method.md",
-    "1. Crypto/Users/Stun/Portfolio.md",
-    "1. Crypto/Users/Shual/Shual's Crypto Tools.md",
     "2. Readings/Brain Dump/2023/04-2023",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
     "1. Crypto/Blockchain Ecosystems/Ethereum (ETH)",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)",
     "4. Programming/SQL/Dune Analytics",
-    "4. Programming/SQL/Resources",
     "0. Setup/Homepage.canvas",
     "5. Attachments/Pasted image 20230319213832.png",
     "vault-footer.jpg",
