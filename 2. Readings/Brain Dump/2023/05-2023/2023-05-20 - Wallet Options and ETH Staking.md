@@ -1,4 +1,4 @@
-# Friday, May 20th 
+# Saturday, May 20th 
 #braindump 
 
 Very interesting knowledge base for ETH staking:
