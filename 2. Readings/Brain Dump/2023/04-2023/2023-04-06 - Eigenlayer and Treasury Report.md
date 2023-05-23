@@ -1,8 +1,9 @@
 ---
 date_created: 2023-04-06
 tags: readings, resources
-category: Readings
-subcategory: Brain Dump
+section: Readings
+category: Brain Dump
+subcategory: April 2023
 topics: layer 2, eth, policy, avax 
 ---
 
