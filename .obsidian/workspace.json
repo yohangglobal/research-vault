@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR Token.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR Token.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR Token.md",
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR Token.md"
+                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md"
               }
             }
           },
@@ -171,11 +171,12 @@
   },
   "active": "8f78188ccdfaa6f0",
   "lastOpenFiles": [
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md",
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR Token.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-20 - Wallet Options.md",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-06 - Eigenlayer and Treasury Report.md",
-    "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR Token.md",
     "2023-04-06.md",
-    "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-20 - Wallet Options and ETH Staking.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR.md",
     "2. Readings/Brain Dump/2023/01-2023/2023-01-25 - Rollup Comparisons and Delay Attacks.md",
@@ -204,7 +205,6 @@
     "5. Attachments/Pasted image 20230409141105.png",
     "5. Attachments/Pasted image 20230409141053.png",
     "5. Attachments/Pasted image 20230409141031.png",
-    "2. Readings/Brain Dump/2023/01-2023/1-25-2023 - Blockchain Architecture.md",
     "1. Crypto/Blockchain Ecosystems/Optimistic Rollups/Arbitrum",
     "2. Readings/Brain Dump/2023/04-2023",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
