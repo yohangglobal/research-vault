@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "262ccc20f8813c67",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f78188ccdfaa6f0",
+  "active": "262ccc20f8813c67",
   "lastOpenFiles": [
     "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md",
