@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Garamond",
   "monospaceFontFamily": "Microsoft JhengHei",
   "translucency": true,
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "theme": "system"
 }
