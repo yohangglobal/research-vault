@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f78188ccdfaa6f0",
+  "active": "2f3906c1a4afb06f",
   "lastOpenFiles": [
+    "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-06 - Eigenlayer and Treasury Report.md",
-    "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-20 - Wallet Options.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-08 - FOUR Token.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-20 - Wallet Options and ETH Staking.md",
