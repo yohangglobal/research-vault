@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Readings/Brain Dump/2023/06-2023/2023-06-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Readings/Brain Dump/2023/06-2023/2023-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Readings/Brain Dump/2023/06-2023/2023-06-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. Readings/Brain Dump/2023/06-2023/2023-06-23.md"
               }
             }
           },
@@ -168,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f3906c1a4afb06f",
+  "active": "8f78188ccdfaa6f0",
   "lastOpenFiles": [
+    "README.md",
+    "2. Readings/Brain Dump/2023/06-2023/2023-06-23.md",
+    "2. Readings/Brain Dump/2023/06-2023/Untitled.md",
+    "2. Readings/Brain Dump/2023/06-2023",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-21.md",
     "2. Readings/Brain Dump/2023/05-2023/2023-05-22.md",
     "2. Readings/Brain Dump/2023/04-2023/2023-04-06 - Eigenlayer and Treasury Report.md",
@@ -194,10 +198,8 @@
     "3. Writings/Posts/Threads/Profit-taking (yandre).md",
     "3. Writings/Posts/Threads/Maximizing profits in defi.md",
     "3. Writings/Posts/Threads/Lack of Security.md",
-    "3. Writings/Posts/Threads/DeFi insights (cbee).md",
     "3. Writings/Posts/LinkedIn",
     "3. Writings/Posts/Threads",
-    "3. Writings/Summary/Research Papers/Blockchain-based Healthcare with ZK Proofs.md",
     "2. Readings/Brain Dump/2023/05-2023",
     "5. Attachments/Pasted image 20230409141156.png",
     "5. Attachments/Pasted image 20230409141105.png",
@@ -208,7 +210,6 @@
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)/Resources",
     "1. Crypto/Blockchain Ecosystems/Ethereum (ETH)",
     "1. Crypto/Blockchain Ecosystems/Bitcoin (BTC)",
-    "4. Programming/SQL/Dune Analytics",
     "0. Setup/Homepage.canvas",
     "5. Attachments/Pasted image 20230319213832.png",
     "vault-footer.jpg",
